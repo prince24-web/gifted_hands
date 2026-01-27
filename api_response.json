@@ -1,0 +1,615 @@
+{
+    "subject": "english",
+    "status": 200,
+    "total": 32,
+    "data": [
+        {
+            "id": 982,
+            "question": "Men<u>t<\/u>ion?",
+            "option": {
+                "a": "that",
+                "b": "machine",
+                "c": "church",
+                "d": "test"
+            },
+            "section": "<b>In each of the questions 84 to 89 choose the option that has the same vowel sound as the one represented by the underlined letter(s).<\/b>\n",
+            "image": "",
+            "answer": "b",
+            "solution": "mention; \/\u02c8m\u025bn\u0283(\u0259)n\/\n\nmachine; \/m\u0259\u02c8\u0283i\u02d0n\/",
+            "examtype": "utme",
+            "examyear": "2011",
+            "questionNub": 87,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1179,
+            "question": "L<u>au<\/u>d",
+            "option": {
+                "a": "lathe",
+                "b": "core",
+                "c": "lavatory",
+                "d": "loud"
+            },
+            "section": "<b>In each of question 86 to 88 choose the option that has same vowel sound as the one represented by the letter (s) underlined.<\/b>",
+            "image": "",
+            "answer": "b",
+            "solution": "laud; \/l\u0254\u02d0d\/\n\ncore; \/k\u0254\u02d0\/",
+            "examtype": "utme",
+            "examyear": "2013",
+            "questionNub": 87,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 838,
+            "question": "The officer described the comments as ........ because it was very amusing?",
+            "option": {
+                "a": "ludicrous",
+                "b": "dangerous",
+                "c": "sad",
+                "d": "libellous"
+            },
+            "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.<\/b>\n",
+            "image": "",
+            "answer": "a",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2002",
+            "questionNub": 42,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1219,
+            "question": "Almost everyone she had worked with took advantage of her <u>meekness<\/u>",
+            "option": {
+                "a": "gentleness",
+                "b": "weakness",
+                "c": "steadfastness",
+                "d": "generosity"
+            },
+            "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+            "image": "",
+            "answer": "a",
+            "solution": "Meekness: the fact or condition of being meek; submissiveness.",
+            "examtype": "utme",
+            "examyear": "2021",
+            "questionNub": 26,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1351,
+            "question": "Many countries no longer have _______ punishment as the penalty for murder",
+            "option": {
+                "a": "mortal",
+                "b": "corporal",
+                "c": "capital",
+                "d": "fatal"
+            },
+            "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+            "image": "",
+            "answer": "c",
+            "solution": "Capital punishment is also called 'death penalty', therefore in this context option C is the appropriate answer.s",
+            "examtype": "utme",
+            "examyear": "2020",
+            "questionNub": 38,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 494,
+            "question": "The officer acted in\u2026.. the instructions. ",
+            "option": {
+                "a": "accordance ",
+                "b": "accordance to",
+                "c": "accordance of",
+                "d": "accordance with "
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "d",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2009",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1604,
+            "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis case is within the <i>jurisdiction<\/i> of the council",
+            "option": {
+                "a": "record",
+                "b": "prohibition",
+                "c": "authority",
+                "d": "finance"
+            },
+            "section": "",
+            "image": "",
+            "answer": "c",
+            "solution": "<i>Jurisdiction<\/i>' the italicized word in the question means the official power to make legal decision and judgement while authority, the answer, is synonymous in that it means the power or right to give orders, make decisions",
+            "examtype": "utme",
+            "examyear": "2017",
+            "questionNub": 41,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 893,
+            "question": "The evidence the leader gave was <u>incontrovertible<\/u>?",
+            "option": {
+                "a": "indulbitable",
+                "b": "contestable",
+                "c": "practicable",
+                "d": "logical"
+            },
+            "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).<\/b>",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2002",
+            "questionNub": 97,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 696,
+            "question": "Art lies in cherishing the initiative and <u>creative power<\/u> of each person?",
+            "option": {
+                "a": "potential",
+                "b": "strenght",
+                "c": "gift",
+                "d": "mind"
+            },
+            "section": "<b>In each of questions 86 to 100 choose from the options nearest in meaning to the word underlined.<\/b>\n",
+            "image": "",
+            "answer": "a",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2001",
+            "questionNub": 100,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 823,
+            "question": "If one perseveres ....... will surely succeed?",
+            "option": {
+                "a": "she",
+                "b": "one",
+                "c": "he",
+                "d": "they"
+            },
+            "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.<\/b>\n",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2002",
+            "questionNub": 27,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1574,
+            "question": "Choose the option nearest in meaning to the word or phrase in italics\n\nThis event was a <i>watershed<\/i> in the company",
+            "option": {
+                "a": "landmark",
+                "b": "blot",
+                "c": "publicity",
+                "d": "stain"
+            },
+            "section": "",
+            "image": "",
+            "answer": "a",
+            "solution": "The question has the word <i>watershed<\/i> italicized. The word means an event or perfect marking a turning point in a situation. It is synonymous to the word landmark which means an event or discovering marking an important stage or turning point in something",
+            "examtype": "utme",
+            "examyear": "2017",
+            "questionNub": 11,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 3,
+            "question": "Course\u2026\u2026\u2026\u2026.  writers are to reflect local colour",
+            "option": {
+                "a": " material's ",
+                "b": "materials'",
+                "c": "materials ",
+                "d": "material "
+            },
+            "section": "most appropriate option",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2003",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 155,
+            "question": "The men were not pawns in someone else\u2019s political game.",
+            "option": {
+                "a": "The action they executed was their idea",
+                "b": "The men used someone else\u2019s plain",
+                "c": "They were used by someone\u2019s political game",
+                "d": "They love playing political games"
+            },
+            "section": "select the option that best explains the information conveyed in the sentence.",
+            "image": "",
+            "answer": "a",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2005",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1755,
+            "question": "Choose the option that best fills the gap.\n\nMost of his personal ---------------stolen",
+            "option": {
+                "a": " effects were",
+                "b": "affects was",
+                "c": "effects was",
+                "d": "defects"
+            },
+            "section": "",
+            "image": "",
+            "answer": "a",
+            "solution": "The correct answer is \u2018A\u2019 \u2018effects were\u2019 because the word \u2018effects in this context  means belongings \/ luggages or properties. The word \u2018defect\u2019 means \u2018a fault or malfunction. The other options are totally incorrect.",
+            "examtype": "utme",
+            "examyear": "2015",
+            "questionNub": 68,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 488,
+            "question": "He is really very mean. He\u2026\u2026 not lend me the money I wanted. ",
+            "option": {
+                "a": "should ",
+                "b": "could  ",
+                "c": "would",
+                "d": "won't  "
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "c",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2009",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 544,
+            "question": "The report of the committee contained a  <i>plethora<\/i>  of details",
+            "option": {
+                "a": " shortage ",
+                "b": "simplicity ",
+                "c": "multitude",
+                "d": " spectrum"
+            },
+            "section": "choose the option opposite In meaning to the word or phrase In Italics",
+            "image": "",
+            "answer": "a",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2010",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1602,
+            "question": "From the words lettered A to D, choose the word that has the same consonant sound(s)\n\nStrange",
+            "option": {
+                "a": "vague",
+                "b": "mirage",
+                "c": "logic",
+                "d": "legume"
+            },
+            "section": "",
+            "image": "",
+            "answer": "c",
+            "solution": "the ''ge'' in ''strange'' is the same consonant sound as the ''g'' in logic\n\nstrange is pronounced as  [stre\u026an(d)\u0292]\n\n ",
+            "examtype": "utme",
+            "examyear": "2017",
+            "questionNub": 39,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1664,
+            "question": "task<u>ed<\/u>",
+            "option": {
+                "a": "bagged",
+                "b": "floored",
+                "c": "laughed",
+                "d": "shouted"
+            },
+            "section": "For these questions, choose the option that have the same consonant sound as the ones represented by the letter (s) underlined",
+            "image": "",
+            "answer": "c",
+            "solution": "task; \/t\u0251\u02d0skt\/\n\nlaughed; \/l\u0251\u02d0ft\/",
+            "examtype": "utme",
+            "examyear": "2016",
+            "questionNub": 52,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1534,
+            "question": "The shipping company advertised for ____________ accountants",
+            "option": {
+                "a": "two young but highly competent Nigerian",
+                "b": "young but highly competent two Nigerian",
+                "c": "two Nigerian, young, but highly competent",
+                "d": " highly competent, but young, two Nigerian"
+            },
+            "section": "Choose the word(s) or phrase(s) which best fill(s) the gap. ",
+            "image": "",
+            "answer": "a",
+            "solution": "The shipping company advertised for two young, but highly competent Nigerian accountants",
+            "examtype": "utme",
+            "examyear": "2018",
+            "questionNub": 51,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1066,
+            "question": "...........a good leader must have two characteristics",
+            "option": {
+                "a": "first and formost",
+                "b": " first and formust",
+                "c": "first and farmost",
+                "d": " first and foremost"
+            },
+            "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)<\/b>",
+            "image": "",
+            "answer": "d",
+            "solution": "First and foremost; most importantly\n\nfirst and foremost a good leader must have two characteristics",
+            "examtype": "utme",
+            "examyear": "2012",
+            "questionNub": 72,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 233,
+            "question": "The clubs were not\u2026\u2026.. on a solid ethical base ",
+            "option": {
+                "a": "funded",
+                "b": "found ",
+                "c": "created ",
+                "d": "founded "
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "d",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2006",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1606,
+            "question": "Suleiman's reason for becoming a Muslim in the novel is because Islam brings sense of ______?",
+            "option": {
+                "a": " radicalism and aggression",
+                "b": "boldness and awareness",
+                "c": "kindness and truthfulness",
+                "d": "purpose and discipline"
+            },
+            "section": "This question is based on S. L. Manyika's INDEPENDENCE",
+            "image": "",
+            "answer": "c",
+            "solution": "In chapter 30, Suleiman was resolute about tracing his roots and finally finding his identity amongst his people in Africa and in the religion, Islam",
+            "examtype": "utme",
+            "examyear": "2017",
+            "questionNub": 43,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 829,
+            "question": "The new manager was responsible for the \u2026\u2026.of the organization.",
+            "option": {
+                "a": "uplifting",
+                "b": "lifting",
+                "c": "uplift",
+                "d": "upliftment"
+            },
+            "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.<\/b>\n",
+            "image": "",
+            "answer": "d",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2002",
+            "questionNub": 33,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 885,
+            "question": "Everyone admired the manager's <u>adroit<\/u> handling of the crises in the company?\n",
+            "option": {
+                "a": "clever",
+                "b": "tactless",
+                "c": "skilful",
+                "d": "clumsy"
+            },
+            "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).<\/b>",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2002",
+            "questionNub": 89,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 209,
+            "question": "g<u>uar<\/u>d",
+            "option": {
+                "a": "gourd",
+                "b": "guide",
+                "c": "argue",
+                "d": "chat"
+            },
+            "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined",
+            "image": "",
+            "answer": "c",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2005",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 92,
+            "question": "No teacher of honour would subject his student to any form of \u2026\u2026..",
+            "option": {
+                "a": "harassment",
+                "b": "Harassment",
+                "c": "harassment",
+                "d": "harassment"
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2004",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1570,
+            "question": "Choose the most appropriate stress pattern from the options below\n\npalatable",
+            "option": {
+                "a": " PAL\u2014a\u2014ta\u2014ble",
+                "b": "pal\u2014A\u2014ta\u2014ble",
+                "c": " pal\u2014a\u2014TA\u2014ble",
+                "d": " pal\u2014a\u2014ta\u2014BLE"
+            },
+            "section": "",
+            "image": "",
+            "answer": "a",
+            "solution": "Some words are made up of a root  and a suffix:\n\ndangerous   =    root \u2013> danger  +  ous \u2013<  suffix\ncommercial   =    root \u2013> commerc(e)  + al \u2013<  suffix\n\nIn some words with suffixes, the stress stays on the same syllable as in the root. Compare:\n\n\u2018danger and: \u2018dangerous\n\nIn other words, the suffix changes the stressed syllable. Compare:\n\n\u2018commerce and: com\u2018mercial\n\nSuffixes which don\u2019t usually change the stress pattern in the root word include (however they maybe some exceptions.) -able, -age, -al, -er, -ful, -less, -ness, -ous and -fy. For example:\n\ncomfort \u2013 \u2018comfortable\nper\u2018cent \u2013 per\u2019centage\n",
+            "examtype": "utme",
+            "examyear": "2017",
+            "questionNub": 7,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 350,
+            "question": "Yesterday in the hall, Ola said that ...........  his watch.",
+            "option": {
+                "a": "he had mislaid ",
+                "b": "he had forgot ",
+                "c": "ne has misplaced  ",
+                "d": "he have lost "
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "a",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2007",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 35,
+            "question": "In spite of his humble beginning, Audu now throws his weight around ",
+            "option": {
+                "a": "His noble birth notwithstanding, Audu is a corrupt man ",
+                "b": "From his poor background, Audu is now a rich man ",
+                "c": "Despite his obvious poverty, Audu is a proud man ",
+                "d": "Audu is arrogant despite his simple upbringing ."
+            },
+            "section": "that best explains the information conveyed ",
+            "image": "",
+            "answer": "d",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2003",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 1255,
+            "question": "The book described Talle as a?",
+            "option": {
+                "a": "The precious child",
+                "b": "The quiet one",
+                "c": " The friendly child",
+                "d": "the holy child"
+            },
+            "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+            "image": "",
+            "answer": "b",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2022",
+            "questionNub": 2,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 355,
+            "question": "The girl cannot speak with a clear voice; she is always \u2026\u2026\u2026. ",
+            "option": {
+                "a": "blabbing ",
+                "b": " vociferating ",
+                "c": " stuttering ",
+                "d": "gesticulating "
+            },
+            "section": "choose the option that best completes the gap(s).",
+            "image": "",
+            "answer": "c",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2007",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        },
+        {
+            "id": 247,
+            "question": "apparent ",
+            "option": {
+                "a": "arrested ",
+                "b": "telephone ",
+                "c": "paragraph ",
+                "d": "appetite "
+            },
+            "section": "choose the option that has the same stress pattern as the given word.",
+            "image": "",
+            "answer": "c",
+            "solution": "",
+            "examtype": "utme",
+            "examyear": "2006",
+            "questionNub": null,
+            "hasPassage": 0,
+            "category": "others"
+        }
+    ]
+}
