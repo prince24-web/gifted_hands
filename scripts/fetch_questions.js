@@ -146,7 +146,7 @@ const fetchBatchQuestions = (subject, limit = 5) => {
         Object.keys(questionsBySubject[subject]).forEach(type => {
             console.log(`    - ${type}: ${questionsBySubject[subject][type].length} questions`);
         });
-    }
+    } 
 
     // Generate the file content
     const fileContent = `

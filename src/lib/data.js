@@ -6777,6 +6777,2230 @@ export const questionsBySubject = {
         "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
         "examType": "UTME",
         "examYear": "2001"
+      },
+      {
+        "id": 1072,
+        "question": "We stood up when the principal came in..........?",
+        "options": [
+          "isn't it",
+          " didn't we",
+          "not so",
+          "did us"
+        ],
+        "correctAnswer": 1,
+        "explanation": "We often use question tags when we expect the listener to agree with our statement. In this case, when the statement is negative, we use a positive question tag. Hence it would read;\n\nWe stood up when the principal came in  didn't we",
+        "image": "",
+        "section": "<b>In each of the question 66 to 85 choose the option that best completes the gap(s)</b>",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 1032,
+        "question": "The principal was advised to be <u>flexible</u> on critical issues.",
+        "options": [
+          "livid",
+          "cautious",
+          "evasive",
+          "rigid"
+        ],
+        "correctAnswer": 3,
+        "explanation": "flexible; able to be easily modified to respond to altered circumstances.\n\nRigid; unable to bend or be forced out of shape; not flexible.",
+        "image": "",
+        "section": "In each of the questions 36 to 50 choose the option <b>opposite</b> in meaning to the underlined word or phrase.\n",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 1084,
+        "question": "<u>H</u>air",
+        "options": [
+          "heir",
+          "hour",
+          "honest",
+          "house"
+        ],
+        "correctAnswer": 3,
+        "explanation": "hair; /hɛː/\n\nhouse; /haʊs/",
+        "image": "",
+        "section": "<b>In each of questions 89 to 91, choose the \noption that has the same consonant \nsound as the one represented by the \nletter(s) underlined.</b>",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 13,
+        "question": " Four weeks ..................  enough for the police to  conclude   their",
+        "options": [
+          "were",
+          " is ",
+          " are ",
+          " has been"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "most appropriate option",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 1179,
+        "question": "L<u>au</u>d",
+        "options": [
+          "lathe",
+          "core",
+          "lavatory",
+          "loud"
+        ],
+        "correctAnswer": 1,
+        "explanation": "laud; /lɔːd/\n\ncore; /kɔː/",
+        "image": "",
+        "section": "<b>In each of question 86 to 88 choose the option that has same vowel sound as the one represented by the letter (s) underlined.</b>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 41,
+        "question": "Agbenu was <i>ecstatic</i> about her result ",
+        "options": [
+          "sad",
+          "dispassionate ",
+          "mad ",
+          "pessimistic "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "opposite in meaning to the word(s) or phrase in italics ",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 1584,
+        "question": "Choose the option opposite in meaning to the word or phrase in italics\n\nThe students received a mild <i>reproof</i> from the teacher",
+        "options": [
+          "exhortation",
+          "opposition",
+          "commendation",
+          "appropriation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "This answer was chosen because it is opposite to the word italicized in the question; reproof which means an expression of criticism, blame.\nFrom the above meaning of the other options, it is obvious that non-fits for the opposite of the word 'reproof'.\n\nCommendation means an official or a formal praise",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 199,
+        "question": "The …………   event marked the beginning of a new life for the entire cabinet",
+        "options": [
+          "historical  ",
+          "historicity of the",
+          "historic ",
+          "history of the"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 1577,
+        "question": "Choose the option opposite in meaning to the underlined word\n\nThe delegates found it better to resort to <u>consultation</u> rather than __________",
+        "options": [
+          "conflict",
+          "confrontation",
+          "reconciliation",
+          "consent"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Consultation ; the action or process of formally consulting or discussing. example: \"they improved standards in consultation with consumer representatives\"\n\nsynonyms: discussion, dialogue, discourse, debate, negotiation, conference, deliberation\n \n\nconfrontation; a hostile or argumentative situation or meeting between opposing parties.example \"a confrontation with the legislature\"\n\nsynonyms: conflict, clash, brush, fight, battle, contest, encounter, head-to-head, face-off, engagement, tangle, skirmish, collision, meeting, duel, incident, \n ",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 1646,
+        "question": "The nation is in a period of economic <i>flux</i>",
+        "options": [
+          "modification",
+          "change",
+          "fluidity",
+          "stability"
+        ],
+        "correctAnswer": 3,
+        "explanation": "<i>flux</i>; the action or process of flowing or flowing out.\n\nstability: the condition of being steady and not changing",
+        "image": "",
+        "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 490,
+        "question": "If anyone greets you, it is only polite to return….. Greeting",
+        "options": [
+          "your  ",
+          "the one's   ",
+          "Anyone's ",
+          "one's "
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 409,
+        "question": "The <i>disagreement</i> between the two men became obvious during the meeting",
+        "options": [
+          "insult",
+          "confrontation",
+          "passion",
+          "insinuation"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase In Italics",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 1588,
+        "question": "Choose the most appropriate stress pattern from the options. \n\nThe stressed are written in capital letters\ndepartmental",
+        "options": [
+          "DEpartmental",
+          "dePARTmental",
+          "departMENtal",
+          "departmenTAL"
+        ],
+        "correctAnswer": 2,
+        "explanation": "de|part|MEN|tal",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 1134,
+        "question": "Amaka would pass for a beauty queen",
+        "options": [
+          "She would be accepted by all as a beauty Queen",
+          "She walked past the beauty queen",
+          "she was acting as a beauty queen",
+          "she would pass the drink to the queen who is sitting next to her"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Amaka has the qualities of a beauty queen.",
+        "image": "",
+        "section": "<b>questions 36 - 45 are on LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of this question select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 988,
+        "question": "termination?",
+        "options": [
+          "terminaTION",
+          "TERmination",
+          "termiNAtion",
+          "terMInation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "words ending with ''tion are usually stressed on the syllable before the ''tion''\n\nHence the word will be stressed as ter-mi-NA-tion",
+        "image": "",
+        "section": "<b>In each of the questions 93 to 98 choose the appropriate stress pattern from the options. The syllables are written in capital letters.</b>",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 1189,
+        "question": "international",
+        "options": [
+          "interNAtional",
+          "internaTIONal",
+          "International",
+          "inTERnational"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of questions 95 to 97, choose the \nmost appropriate stress pattern from the \noptions. The stressed syllables are written \nin capital letters</b>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 888,
+        "question": "The chairman's conduct <u>redounds</u> to the image of the company?",
+        "options": [
+          "assists in",
+          "reflects on",
+          "contributes",
+          "detracts from"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of questions 86 to 100, choose the option opposite in meaning to the underlined word(s).</b>",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 1802,
+        "question": "when the strike is over, there will probably be an increase in wages and a _____ increase in prices.",
+        "options": [
+          "Chronic.",
+          "Sporadic.",
+          "Concordant.",
+          "Concurrent."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "Choose the option that best complete the gap.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 373,
+        "question": "He needn't have bought that new table ",
+        "options": [
+          "It isn't possible that he bought the table ",
+          "He bought the table, but it wasn't necessary ",
+          "He didn’t buy the table because it wasn't necessary",
+          "He doesn't need to buy the table "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "select the option that bost explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 1253,
+        "question": "He travels every WEEKEND",
+        "options": [
+          " Does he sleep every weekend?",
+          " Does he wash every week days?",
+          " Does he travel every month?",
+          "Does he travel every day?"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Option c is the correct answer because WEEKEND contradicts the phrase 'every month'",
+        "image": "",
+        "section": "choose the option that best answers the question from the options lettered A-D",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 1461,
+        "question": "It is high time we ........ seeing her",
+        "options": [
+          "stop",
+          "will stop",
+          "stopped",
+          "stops"
+        ],
+        "correctAnswer": 2,
+        "explanation": "It is high time' suggests that something should be done and that it is already a bit late.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 219,
+        "question": "",
+        "options": [
+          "interpreter",
+          " remarkable",
+          "  impossible ",
+          "criticism"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has a different stress pattern from the others",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 394,
+        "question": "Some aspects of their culture are <i>out of date</i>",
+        "options": [
+          "genuine  ",
+          "pragmatic ",
+          "fashionable ",
+          "fake"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 948,
+        "question": "His wife hates his <u>garrulous</u> attitude?",
+        "options": [
+          "outspoken",
+          "unfriendly",
+          "reticent",
+          "thoughtful"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Garrulous; excessively talkative, especially on trivial matters.\n\nReticent; not revealing one's thoughts or feelings readily. Reserved",
+        "image": "",
+        "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 173,
+        "question": "The proprietor accuse Uche of silently<i> acquiescing</i>  to the students’ demands",
+        "options": [
+          "submitting to",
+          "adjusting",
+          "compromising on",
+          "resisting"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 3,
+        "question": "Course………….  writers are to reflect local colour",
+        "options": [
+          " material's ",
+          "materials'",
+          "materials ",
+          "material "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "most appropriate option",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 527,
+        "question": "The headmaster managed to talk his way out of having  to give a speech ",
+        "options": [
+          "He delivered a speech despite the difficulty ",
+          "He managed to give a speech out of a difficult situation ",
+          "He managed to get himself out of a difficult situation",
+          "He managed to talk on his way."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": " select the option that best explains the Information conveyed In the sentence. ",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 922,
+        "question": "The secretary said that the postponement of the meeting was due to unforeseen circumstances?",
+        "options": [
+          "The date of the meeting was shifted as a result of unexpected reasons",
+          "The meeting's date was off for strange reasons",
+          "The meeting was called as a result of obstacles hitherto unknown",
+          "The meeting broke off as a bird's eye closely"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Because something unexpected has happened",
+        "image": "",
+        "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of the questions 26 to 33, select the option \nthat best explains the information conveyed in \nthe sentence.",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 63,
+        "question": "The company is to <i>shed</i> three thousand staff this year ",
+        "options": [
+          "Throw up ",
+          "placate ",
+          "lay off",
+          "demote "
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 221,
+        "question": "Your mother CAN cook the meal",
+        "options": [
+          " Who will cook the meal?",
+          "Can my father cook the meal?",
+          "Isn't my mother able to cook the meal7",
+          "What can my mother do?"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 424,
+        "question": "The hotel lacks the ..……. for accommodating so many guests.",
+        "options": [
+          "ability",
+          "capability",
+          "capacity",
+          "competence "
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option  best completes the gap(s) .",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 1463,
+        "question": "Either Buntu or you ........ to go",
+        "options": [
+          "was",
+          "are",
+          "has",
+          "is"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The rule of concord states an exception, that is when either or neither joins to subjects (one singular and the other plural)  the verb should be chosen by considering the nearer of the two subjects.\n\nThis means that if the second subject is plural the verb should be plural\n\n'You' can take a plural form, therefore option B is the safest answer.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 566,
+        "question": "His wife was badly injured in the fracas, but I think  she will pull",
+        "options": [
+          "up  ",
+          "over ",
+          "through ",
+          "back"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1547,
+        "question": "choose the option opposite in meaning to the word(s) in italics.\n\n  Everyone testifies to the <i>unique</i> taste of our flavor.",
+        "options": [
+          "Offensive",
+          "Common",
+          "Uncommon",
+          "Sufficient"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 408,
+        "question": "The  man would not <i>withdraw</i>  what hi hid ",
+        "options": [
+          "take back   ",
+          " takeout   ",
+          "take",
+          "tike from"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase In Italics",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 211,
+        "question": "fi<u>l</u>m",
+        "options": [
+          "salt",
+          "walk",
+          "pslam",
+          "chalk"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has the same consonant sound as the one represented by the letter(s) underlined",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 1419,
+        "question": "<u>Procrastination</u> is the enemy of progress",
+        "options": [
+          "acceleration",
+          "laziness",
+          "hardwork",
+          "tiredness"
+        ],
+        "correctAnswer": 0,
+        "explanation": "When someone doesn't procrastinate or postpone things unnecessarily for example out of laziness, then he or she accelerates the pace of the work required.",
+        "image": "",
+        "section": "Choose the one opposite in meaning to the word(s) underlined.",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 312,
+        "question": "Things may change soon, but at the moment our economic situation is <i>precarious.</i>",
+        "options": [
+          " redeemable",
+          "buoyant ",
+          "uncertain   ",
+          " unattractive."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 579,
+        "question": "The man was happy that his son confessed his guilt and so the others were .... ",
+        "options": [
+          "implicated",
+          "accused ",
+          "punished ",
+          "Exonerated"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1432,
+        "question": "The ACCOUNTANT paid the workers july salary in september",
+        "options": [
+          "when were the workers paid",
+          "did the cashier pay the workers salary in september",
+          "workers received their july salary in september",
+          "the september salary was paid in july"
+        ],
+        "correctAnswer": 1,
+        "explanation": "In answering questions on emphatic stress,  the answer in direct reversal to the one in block form and that seeks to clearly restate and provoke the statement is the most suitable. This is why did the cashier pay the workers salary in september is right.",
+        "image": "",
+        "section": "In each of the questions, the word in capital letters has the emphatic stress, Choose the option to which the given sentence relates.",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 1354,
+        "question": "Our chief is very intelligent but he could be <u>parochial</u> in his judgements",
+        "options": [
+          "deep",
+          "broad",
+          "narrow-minded",
+          " kind-hearted"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Parochial means having a limited or narrow scope. Option C best fits this definition.",
+        "image": "",
+        "section": "From the words lettered A to D, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentence\n\n ",
+        "examType": "UTME",
+        "examYear": "2020"
+      },
+      {
+        "id": 732,
+        "question": "EDUCATION? ",
+        "options": [
+          "duplicity",
+          "economics",
+          "elaborate",
+          "conjectural"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of the questions 33 to 36 Select the word that has the same pattern of stress as the given word.</b>",
+        "examType": "UTME",
+        "examYear": "2000"
+      },
+      {
+        "id": 323,
+        "question": "The police demanded a <i>factual</i> account of the accident",
+        "options": [
+          "a supportive  ",
+          "an uncorroborated",
+          "an admissible ",
+          "an undisguised."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 1245,
+        "question": "H<u>ea</u>d",
+        "options": [
+          "bead",
+          "red",
+          "rear",
+          "stir"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has the same vowel sound as the letter(s) underlined from the options lettered A-E",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 1582,
+        "question": "From the options, choose the word opposite in meaning to the underlined word\n\nHe is quite an <u>outspoken</u> young man but his father is_____?",
+        "options": [
+          "humorous",
+          "sober",
+          "taciturn",
+          "silent"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Outspoken: frank in stating one's opinions, especially if they are shocking or controversial. to be direct and open in speech and expression. \n\nsynonyms: forthright · direct · candid · frank · straightforward · honest · open · straight · straight from the shoulder · plain · plain-spoken · vociferous · vocal · explicit · point-blank ·\n\n taciturn: (of a person) reserved or uncommunicative in speech; saying little.\n\n\"after such gatherings she would be taciturn and morose\"\n\nsynonyms: untalkative · uncommunicative · reticent · unforthcoming · quiet · unresponsive · secretive · silent · tight-lipped · close-mouthed · mute · dumb · inarticulate · reserved\n\n ",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 494,
+        "question": "The officer acted in….. the instructions. ",
+        "options": [
+          "accordance ",
+          "accordance to",
+          "accordance of",
+          "accordance with "
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1733,
+        "question": "From the words lettered A to D, choose the word that rhymes with the given word.\n\nTenderly",
+        "options": [
+          "actually",
+          "slenderly",
+          "faithfully",
+          "constantly"
+        ],
+        "correctAnswer": 1,
+        "explanation": "tenderly; /ˈtɛnd(ə)li/\n\nslenderly; slɛnd(ə)li/",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 236,
+        "question": "The investigation Commission has treated all the …… submitted to it by the warring factions",
+        "options": [
+          "protests ",
+          "petitions ",
+          "applications",
+          "enquires "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 1433,
+        "question": "In each of the questions, the word in capital letters has the emphatic stress, Choose the option to which the given sentence relates.\n\nThe cat DEVOURED the rat",
+        "options": [
+          "did the rat devour the cat",
+          " what devoured the rat",
+          " did the cat pet the rat",
+          "is this rat that the cat devoured"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Did the cat pet the rat is the correct answer. The same reasoning in the authoritative answer to Question 59 is also relevant here to support Option as the most suitable answer.",
+        "image": "",
+        "section": "In each of the questions, the word in capital letters has the emphatic stress, Choose the option to which the given sentence relates.",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 196,
+        "question": "Is it true that Okoro……..  when the gates were closed?",
+        "options": [
+          "had returned",
+          "would return  ",
+          "should return    ",
+          "would have returned"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 1757,
+        "question": "Someone called Jimi after he left his food and got outside the gate of his house, Who is it?",
+        "options": [
+          "Jimi uncle",
+          "Seyi lawal",
+          "Mr.mallum",
+          "Ansa"
+        ],
+        "correctAnswer": 3,
+        "explanation": "See page 3 - 4",
+        "image": "",
+        "section": "This question is from the novel The Last Days at Forcados High school.",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 866,
+        "question": "They are considered to be legal <u>luminaries</u>",
+        "options": [
+          "directors",
+          "power",
+          "experts",
+          "practioners"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of questions 59 to 73, choose the option nearest in meaning to the underlined word(s).</b>",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 208,
+        "question": "b<u>ee</u>r",
+        "options": [
+          "bear",
+          " pear ",
+          " fair",
+          " pier"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has the same vowel sound as the one represented by the letter(s) underlined",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 148,
+        "question": "",
+        "options": [
+          "bachelor",
+          "condemn",
+          " afternoon",
+          "intact "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has the stress on the first syllable.",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 995,
+        "question": "If I went to the village I would visit the King.",
+        "options": [
+          "If i go to the village, i will visit the king",
+          "I did not go to the village and I did not visit the king",
+          "All the times I went to the village I also visited the king",
+          "I will visit the king when I go to the village"
+        ],
+        "correctAnswer": 1,
+        "explanation": "He hasn't visited the village yet, but when he does, he will visit the king.",
+        "image": "",
+        "section": "<b>In each of the questions 99 to 100 select the option that best explains the information conveyed in the sentence.</b>",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 462,
+        "question": "Life has become a <i>misery</i> for many owing to the harsh economic condition in the country",
+        "options": [
+          "drudgery   ",
+          "ridicule   ",
+          "ritual ",
+          "comfort. "
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "Choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1766,
+        "question": "Adeola doesn't have to go to the farm today.",
+        "options": [
+          "Adeola may go to the farm today if he so wishes.",
+          "Adeola ought not to have gone to the farm today.",
+          "Adeola must not go to the farm today.",
+          "Adeola should not go to the farm today."
+        ],
+        "correctAnswer": 0,
+        "explanation": "If Adeola wishes to go to the farm, he is free to",
+        "image": "",
+        "section": "Select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 678,
+        "question": "You must not attend the end-of year party?",
+        "options": [
+          "It is not necessary that you attend the party",
+          " It is necessary that you attend the party",
+          "You do not have to decided whether to attend the party or not",
+          "You have to decided whether to attend the party or not"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'You must not attend the end-of year party'' this statement means that, attending the party is not compulsory or a necessity. it is optional",
+        "image": "",
+        "section": "<b>In each of questions 81 to 85, select the option that best explains the information conveyed in the sentence.</b>\n",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1652,
+        "question": "With strong determination, Adamu was able to .... the problem",
+        "options": [
+          "surmount",
+          "surpass",
+          "defend",
+          "know"
+        ],
+        "correctAnswer": 0,
+        "explanation": "With strong determination, Adamu was able to surmount the problem\n\nsurmount means to overcome (a difficulty or obstacle).",
+        "image": "",
+        "section": "For these questions, choose the option that best complete the gap(s) \n",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 1164,
+        "question": "The continuous rain has really .......the soil.",
+        "options": [
+          "satiated",
+          "saturated",
+          "melted up",
+          "mopped up"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Saturated means to be thoroughly soaked. Or holding as much water or moisture as can be absorbed",
+        "image": "",
+        "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 174,
+        "question": "No wonder Sikemi later became a detective; she has been very <i>observant </i>",
+        "options": [
+          "curious",
+          "perceptive",
+          "inductive",
+          "inquisitive"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase  in italics ",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 329,
+        "question": "For anything to do with academic work, he has a great  a <i>version</i>",
+        "options": [
+          "conversion ",
+          "attention",
+          "contempt  ",
+          "predilection."
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 252,
+        "question": "In our college, the regulations concerning resists are a grey area",
+        "options": [
+          "The regulations have just been revised",
+          "The regulations have often been ignored",
+          "The regulations are perfectly clear",
+          "The regulations are not very clear."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "the option that best explains the information conveyed in the sentence. ",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 220,
+        "question": "",
+        "options": [
+          "  impound",
+          "canoe",
+          "  subject(verb)",
+          " knowledge"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has a different stress pattern from the others",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 545,
+        "question": "The weather was still very  <i>heavy and sultry </i> ",
+        "options": [
+          "wintry and shadowy ",
+          "cold and friendly ",
+          "cloudy and thundery",
+          "hot and uncomfortable"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite In meaning to the word or phrase In Italics",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 345,
+        "question": "The idle steward could not see ....... on the wall, and he lost his job.",
+        "options": [
+          "the writing",
+          "what will be written ",
+          "the handwriting",
+          "what is written"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 1351,
+        "question": "Many countries no longer have _______ punishment as the penalty for murder",
+        "options": [
+          "mortal",
+          "corporal",
+          "capital",
+          "fatal"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Capital punishment is also called 'death penalty', therefore in this context option C is the appropriate answer.s",
+        "image": "",
+        "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+        "examType": "UTME",
+        "examYear": "2020"
+      },
+      {
+        "id": 517,
+        "question": "  understandable ",
+        "options": [
+          "unDERstandable",
+          "understandABLE",
+          "UNderstandable ",
+          "underSTANDable."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the appropriate stress pattern from the options. The syllables are written in capital letters.",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1760,
+        "question": "\nThe minister considered the ministry's budget to be a drop in the ocean in view of the number of projects in the pipeline.",
+        "options": [
+          "The pipeline project across the ocean will be abandoned unless budgetary allocation improves",
+          "The amount available may be inadequate for projected expenditure",
+          "The minister may be dropped for failing to complete a number of projects",
+          "The money approved cannont complete the pipeline project acorss the ocean"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A drop in the ocean; a very small amount compared with what is needed or expected.",
+        "image": "",
+        "section": "Select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 1191,
+        "question": "Adamu is leaving a CAR behind.",
+        "options": [
+          "What is Adamu leaving behind?",
+          " Is Adamu driving the car in front?",
+          "Who is leaving a car behind?",
+          "Where is Adamu leaving a car?"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of question 98 to 100, the word in \ncapital letters has the emphatic stress.\nChoose the option to which the given \nsentence relates.</b>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 350,
+        "question": "Yesterday in the hall, Ola said that ...........  his watch.",
+        "options": [
+          "he had mislaid ",
+          "he had forgot ",
+          "ne has misplaced  ",
+          "he have lost "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 358,
+        "question": "Our soldiers are starting to zero …………. the enemy.",
+        "options": [
+          "at    ",
+          "in on ",
+          " unto ",
+          "on at "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 826,
+        "question": "....... a motor cycle can be harmful ..... your health.",
+        "options": [
+          "riding / for",
+          "riding / to",
+          "to ride / for",
+          "to ride / with"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 1638,
+        "question": "It is important not to let mistakes <i>blight</i>  your life",
+        "options": [
+          "damage",
+          "impart",
+          "improve",
+          "ruin"
+        ],
+        "correctAnswer": 2,
+        "explanation": "<i>blight</i>; have a severely detrimental effect on. (a thing that spoils or damages something.)\nimprove; having become or been made better.",
+        "image": "",
+        "section": "For this question, choose the option opposite in meaning to the word or phrase in italics ",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 634,
+        "question": "A child that shows mature characteristics at an early age may be described as .......?",
+        "options": [
+          "preconceived",
+          "premature",
+          "ingenuous",
+          "precocious"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of the questions 32 to 56, fill the each gap with the most appropriate option from the list option from the list provided.</b>",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 841,
+        "question": "Despite all preparations, the wedding did not ....... ?",
+        "options": [
+          "come along",
+          "come off",
+          " come on",
+          "come up"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 654,
+        "question": "",
+        "options": [
+          "competent",
+          "misread",
+          "resign",
+          "compel"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "  <b>In questions 57 to 58, identify the word that has the stress on the first syllable.</b>",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1779,
+        "question": "As a student, Isa tied <u>communal</u> living for a few years.",
+        "options": [
+          "Private.",
+          "Collective.",
+          "General.",
+          "Shared."
+        ],
+        "correctAnswer": 0,
+        "explanation": "communal; shared by all members of a community; for common use.",
+        "image": "",
+        "section": "Choose the option <b>opposite</b> in meaning to the underlined word or phrase.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 570,
+        "question": "The principal said that he was pleased......... my effort.",
+        "options": [
+          " on ",
+          "of ",
+          "with",
+          "about"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1141,
+        "question": "The Novel laureate's activity in the field of science is <u>heinous</u>",
+        "options": [
+          "Laudable",
+          "Deplorable",
+          "forgettable",
+          "Indelible"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Heinous; (of a person or wrongful act, especially a crime) utterly odious or wicked.\n\nLaudable; (of an action, idea, or aim) deserving praise and commendation.",
+        "image": "",
+        "section": "In each of questions 46 to 55, choose the option <b>opposite</b> in meaning to the word or phrase underlined.\n",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 1092,
+        "question": "The traditional chief NARRATED the story to the children",
+        "options": [
+          "the children heard the story from the traditional chief",
+          "who narrated the story to the children?",
+          "the children could not listen to the story by the traditional chief",
+          "did the chief hide the story from the children?"
+        ],
+        "correctAnswer": 3,
+        "explanation": "In responding to questions on emphatic stress in examinations, interrogative sentences will be provided as options. The interrogative sentence that contradicts the emphasized word is the correct option. The word ''hide'' in option D contradicts the emphasized word ''narrate''",
+        "image": "",
+        "section": "<b>In each of the questions 98 to 100 the word in capital letters has the emphatic stress. Choose the option to which the given sentence relates.</b>",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 327,
+        "question": "The Vice-Chancellor <i>relinquished</i> power at the end of busterm ",
+        "options": [
+          "abandoned   ",
+          "wielded  ",
+          "gave up",
+          " clung on to."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 60,
+        "question": "The leader has the <i>unstinting</i> support of his party ",
+        "options": [
+          "cautious ",
+          "uninspiring ",
+          "unsparing ",
+          "laudable "
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word(s) or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 936,
+        "question": "The stockbroker said it was an <u>astute</u> move to sell the shares then?",
+        "options": [
+          "a bad",
+          "a shrewd",
+          "an unprofitable",
+          "an insincere"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Astute; having or showing an ability to accurately assess situations or people and turn this to one's advantage.\n\nshrewd; having or showing sharp powers of judgement; astute.",
+        "image": "",
+        "section": "<b>In each of the questions 34 to 48, Choose the option nearest in meaning to the underlined word(s).</b>\n",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 625,
+        "question": "",
+        "options": [
+          "key",
+          "wind",
+          "even",
+          "people"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of questions 28 to 31, choose the word that does not have the same vowel sound as the others.</b>",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 822,
+        "question": "The army officer said that more ...... would be needed to prosecute the war?",
+        "options": [
+          "guerrilas",
+          "guerrillas",
+          "geurrilas",
+          "geurrillas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>LEXIS, STRUCTUREAND ORAL FORMS\n(Questions 26 to 75 carry 1 mark each)\nIn each of questions 26 to 50, fill each gap with the most appropriate option from the lists provided.</b>\n",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 1266,
+        "question": "Who were the people in the car?",
+        "options": [
+          "Lawal and Labaran",
+          " Habib and Labaran",
+          "Lawal and Kabir",
+          " Labara and Zarki"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 1021,
+        "question": "The vice chancellor is riding the crest of the last quarter of his administration.",
+        "options": [
+          "The vice chancellor enjoys the acknowledgment of the success of his administration",
+          " the vice chancellor does not enjoy the people's criticism of his administration",
+          "the vice chancellor hopes to overcome soon the poor comments on the adinistration",
+          "the vice chancellor does not talk of his success in office"
+        ],
+        "correctAnswer": 0,
+        "explanation": "This means to be experiencing a particularly joyous or successful period, situation, or event. ei, the vice chancellor is enjoying the successes of his administration.",
+        "image": "",
+        "section": "<b>LEXIS, STRUCTURE AND ORAL FORMS</b>\nIn each of question 26 to 35, select the option \nthat best explains the information conveyed in \nthe sentence",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 874,
+        "question": "The politician was pilloried by the press for his inflammatory remarks?",
+        "options": [
+          "The politician was snubbed by the press for his remarks",
+          "The politician was criticized by the press for his remarks",
+          "The politician was closely questioned by the press for his remarks",
+          "The politician was ridiculed by the press for his remarks"
+        ],
+        "correctAnswer": 3,
+        "explanation": "To transcribe the statement above, we first need to know the meaning of the various words used;\n\npilloried means to be attacked or ridiculed publicly. \n\ninflammatory (relating to speech or writing) arousing or intended to arouse angry or violent feelings. example \"inflammatory remarks\"\n\nsynonyms: provocative · provoking · inflaming  · inciting · agitating ·\n\noption D best translate the statement.",
+        "image": "",
+        "section": "<b>In each of questions 76 to 80, select the option that best explains the information conveyed in the sentence.</b>\n",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 451,
+        "question": "I couldn't buy the biscuit because of the hold-up in the supermarket. ",
+        "options": [
+          "The shop had not opened.",
+          "The attendant was slow  ",
+          " Armed robbers were",
+          " There was nobody to attend to me."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "select the option that best explains the information conveyed in the sentence. ",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1382,
+        "question": "Band[a]ge",
+        "options": [
+          "kite",
+          "says",
+          "cacophony",
+          "cage"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bandage' is pronounced as /bandɪdʒ/ with the [a] in bandage having the 'i' vowel sound, and option C 'cacophony' has the same vowel sound as with the letter 'y'. ",
+        "image": "",
+        "section": "Choose the word with the same vowel sound as the one in bracket\n",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 1504,
+        "question": "The meeting was <u>cancelled</u> because of the convocation",
+        "options": [
+          "brought up",
+          "called off",
+          "broke off",
+          "phased out"
+        ],
+        "correctAnswer": 1,
+        "explanation": "To cancel implies to decide/ announce that an event will not take place.\n\nCall off means to decide that something will not happen",
+        "image": "",
+        "section": "Choose the option nearest in meaning to the underlined.",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 1271,
+        "question": "Who introduced the snail delicacy?",
+        "options": [
+          "Salma",
+          "Ngozi",
+          "Ada",
+          "Tomiwa"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "This question is based on Khadijat Abubakar Jalli's novel, \"The Life Changer\"",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 248,
+        "question": "Unfair ",
+        "options": [
+          "insight ",
+          "towards ",
+          "first-class",
+          "instant "
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that has the same stress pattern as the given word.",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 1303,
+        "question": "If James fails his examination, his teachers, his parents, his friends, or I ______ to be blame.",
+        "options": [
+          "are",
+          "is",
+          "am",
+          "not"
+        ],
+        "correctAnswer": 2,
+        "explanation": "When there is a list of nouns or pronouns at the level of the subject, it is the nearest noun or pronoun to the position of the verb that will determine the choice of the verb.",
+        "image": "",
+        "section": "Fill in the gap with the option that best completes the sentence.",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 857,
+        "question": "I wish the commander were less <u>adamant</u> about his proposed <u>reprisal</u> attack on the enemy?",
+        "options": [
+          " sentimental about / rehearsed",
+          "unyielding about / retailatory",
+          "supportive of / retributive",
+          "tolerant of / surprise"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of questions 59 to 73, choose the option nearest in meaning to the underlined word(s).</b>",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 1307,
+        "question": "Bankole is upset as his wife does not understand his <u>predicament</u> .",
+        "options": [
+          "sadness",
+          "dilemma",
+          "deadlock",
+          "happiness"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Both words mean a situation in which a difficult choice has to be made between two different things you could do.",
+        "image": "",
+        "section": "From the options lettered A-D, choose the option that is nearest in meaning to the underlined word.\n",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 1567,
+        "question": "Choose the option that has the same consonant as the one represented by the letter(s) underlined\n\ncla<u>sh</u>",
+        "options": [
+          "sharp",
+          "cheap",
+          "leisure",
+          "school"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Option A sharp has the same consonant at the beginning of the word",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 522,
+        "question": "Though Mr, Iro is our new chairman, he views other members with jaundiced eye, ",
+        "options": [
+          " He takes a rather forceful position on dealing with his members.",
+          "He takes an unfavourable position concerning his members",
+          "He takes a sickly view of his members. ",
+          "He takes a rather hazy view of his members."
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": " select the option that best explains the Information conveyed In the sentence. ",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1119,
+        "question": "In the novel, Bright lived with Teacher because",
+        "options": [
+          "He was Teacher's nephew",
+          "His father was indebted to Teacher",
+          "He wanted to become a teacher",
+          "His father had gone on a long journey"
+        ],
+        "correctAnswer": 1,
+        "explanation": "See page 126",
+        "image": "",
+        "section": "<b>Questions 21 - 30 are based on Chukwuemeka Ike's The Potter's Wheel</b>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 1722,
+        "question": "In each of the following questions, the main/primary stress is indicated by writing the syllable in which it occurs in capital letters. From the words lettered A to D, choose the one that has the correct stress.\n\nEDUCATION",
+        "options": [
+          "E-du-ca-tion",
+          " e-DU-ca-tion",
+          "e-du-CA-tion",
+          "e-du-ca-TION"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is ‘C’ because the main/primary stress of the word ‘education is on the third syllable. Another thing is that ends in ‘tion’ /’sion’ are stressed on its penultimate (before the last) education/ edju’keijan/",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 1765,
+        "question": "Olu gave his brother a bumpy ride. ",
+        "options": [
+          "Olu's brother rode on Olu's back to success.",
+          "Olu took his brother on a bumpy road.",
+          "Olu gave his brother a difficult time.",
+          "Olu gave his brother a ride on his car."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bumpy ride; to have a difficult time",
+        "image": "",
+        "section": "Select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 1500,
+        "question": "Choose the option that best completes the gap. The young man looked carefully at the long document, but he couldn't make __________ what it meant",
+        "options": [
+          "up",
+          "out",
+          "off",
+          "through"
+        ],
+        "correctAnswer": 1,
+        "explanation": "To make out;  means to understand something. Simply put, he couldn't understand what it meant.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 784,
+        "question": "The officer said that he knew nothing to the <u>detriment</u> of the applicant?",
+        "options": [
+          "damage",
+          "disfavour",
+          "advantage",
+          "background"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "In each of questions 85 to 100, choose from the option <b>opposite</b> in meaning to the word underlined.\n",
+        "examType": "UTME",
+        "examYear": "2000"
+      },
+      {
+        "id": 432,
+        "question": "He ……… the picture on table",
+        "options": [
+          "laid ",
+          "lay ",
+          " lied  ",
+          "Iain "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option  best completes the gap(s) .",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 1792,
+        "question": "You may have the pencil, but you can't have the ballpoint ________.",
+        "options": [
+          "As well.",
+          "Either.",
+          "Futhermore.",
+          "Also."
+        ],
+        "correctAnswer": 0,
+        "explanation": "You may have the pencil, but you can't have the ballpoint  As well",
+        "image": "",
+        "section": "Choose the option that best complete the gap.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 1590,
+        "question": "Choose the option to which the given sentence relates\n\nAderonke STATED she had a right to her privacy",
+        "options": [
+          "Did Omowunmi state she had a right to her privacy?",
+          "Did Aderonke lament she had a right to her privacy?",
+          "Did Aderonke state she had a right to her openness?",
+          "did Aderonke state she had a right to his privacy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Stated' has been emphasized in the question, therefore Option B is the answer because the verb lament contradicts the emphasized word as used in the question",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 372,
+        "question": "The country is holding its first free elections for five years. ",
+        "options": [
+          "The last time the country held free electors  was five years ago. ",
+          "The first free elections in the  country have now taken five years to conduct.",
+          "The country held elections five years ago but they were not free. ",
+          "There were elections in the country five years ago."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 564,
+        "question": "The boy told his mother",
+        "options": [
+          "that was the girl he told her about ",
+          "that was the girl I told you about her",
+          "that was the girl I told her about ",
+          "that is the girl he told her about"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s)",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1218,
+        "question": "The office assistant was dismissed for <u>pilfering</u>",
+        "options": [
+          "fighting",
+          "incompetence",
+          "stealing",
+          "mismanagement"
+        ],
+        "correctAnswer": 2,
+        "explanation": "PIlfering: steal (things of little value).",
+        "image": "",
+        "section": "choose the most appropriate option nearest in meaning to the word(s) underlined.",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 1768,
+        "question": "The robber was hedged in by the people.",
+        "options": [
+          "The robber was surrounded by the people.",
+          "The robber was killed by the people.",
+          "The robber was exposed by the people.",
+          "The robber was caught by the people."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hedge in;  to form a boundary around (something).  to surround or restrict (someone) in a way that prevents free movement or action ",
+        "image": "",
+        "section": "Select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 1798,
+        "question": "A bike must have found the very interesting movies quite _____.",
+        "options": [
+          "Perverting.",
+          "Absolving.",
+          "Absorbing.",
+          "Nauseating."
+        ],
+        "correctAnswer": 3,
+        "explanation": "A bike must have found the very interesting movies quite Nauseating\n\nNauseating; causing or liable to cause a feeling of nausea or disgust; disgusting.",
+        "image": "",
+        "section": "Choose the option that best complete the gap.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 480,
+        "question": "Hers was a <i>specious</i> argument about the government of the day ",
+        "options": [
+          "misleading ",
+          "precious ",
+          "spacious ",
+          "true."
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1348,
+        "question": "The soldiers pledge their ________ loyalty to the new government",
+        "options": [
+          "enduring",
+          "tireless",
+          "complete",
+          "questionable"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Option C best completes the sentence above. 'Complete' suggests 'entire or total'",
+        "image": "",
+        "section": "From the words lettered A to D, choose the word or group of words that best completes each of the following sentences.",
+        "examType": "UTME",
+        "examYear": "2020"
+      },
+      {
+        "id": 1228,
+        "question": "nsecurity has <u>escalated</u> since the present government came into power.",
+        "options": [
+          "abated",
+          "increased",
+          "proliferated",
+          "metamorphosed"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Escalate: increase rapidly.\n\nAbate: (of something unpleasant or severe) become less intense or widespread",
+        "image": "",
+        "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 366,
+        "question": "Emeka hardly ever holds with my view on good governance.",
+        "options": [
+          "Emeka sometimes opposes my idea of good governance.  ",
+          "My view on what good Governance is conforms with that of Emeka.",
+          "Emeka never really supports my opinion of good governance ",
+          "Emeka may never hold a view which conflicts with mine on good governance."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "select the option that best explains the information conveyed in the sentence.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 384,
+        "question": "The lady was  completely <i>nonplussed when her suitor</i>  rejected her gifts ",
+        "options": [
+          "unpuzzled ",
+          "surprised ",
+          " unconscious ",
+          "disappointed  "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 389,
+        "question": "There is now a <i>dearth</i>  of talent in the industry; she said ",
+        "options": [
+          "a lack ",
+          "an abundance ",
+          "a rebirth ",
+          "a shortage "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 534,
+        "question": "The teacher said that All's essay was full of many  <i>redundant</i>  details ",
+        "options": [
+          "unexplained ",
+          "strange",
+          "necessary ",
+          "useful"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite In meaning to the word or phrase In Italics",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1718,
+        "question": "From the words lettered A to D, choose the word that has the same vowel sound as the one represented by the underlined letters or letters underlined.\n\nP<u>ur</u>se",
+        "options": [
+          "journey",
+          "pays",
+          "heart",
+          "course"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The answer as regards the word purse /pƷ:s/ is journey /dzƷ:ni/ because it has the same vowel sound 'uh'.\n\n‘journey’ is the answer as opposed to the other options; pays \\ˈpā\\. heart /ha:t/ which has the long vowel /a:/ and course /kc:s/",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 556,
+        "question": "Jankoli was dressed in an old  <i>assortment</i>  of clothes",
+        "options": [
+          "avalanche ",
+          "homogeneity ",
+          "sameness",
+          "melange"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest  in meaning to the word or phrase in Italics.",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1192,
+        "question": "Lambusa TOOK OFF the wig.\n",
+        "options": [
+          " Who took off the wig?",
+          "What did Lambusa do?",
+          "Did Lambusa take off a wig?",
+          "Did Lambusa take off the ring?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "<b>In each of question 98 to 100, the word in \ncapital letters has the emphatic stress.\nChoose the option to which the given \nsentence relates.</b>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 319,
+        "question": "The refugees were received at the <i>transit</i> camp.",
+        "options": [
+          "passage ",
+          " permanent ",
+          "temporary ",
+          "nearby."
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option opposite in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 482,
+        "question": "If Joy hadn't been <i>tripped up</i> halfway through the race, she would have came first  ",
+        "options": [
+          "discouraged",
+          "disqualified ",
+          "interrupted   ",
+          "exhausted."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 303,
+        "question": "We were warned not to indulge in <i>recriminations.</i>",
+        "options": [
+          "counter-charges      ",
+          "indiscretions  ",
+          "accusation",
+          "frivolous allegations."
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 448,
+        "question": "It was our collective idea but Ado was doing every­ thing to steal the snow  ",
+        "options": [
+          " Ado was not part of the planning but he tried to rub us of the benefits of it.",
+          " We planned the show together out Ado was trying to abort it. ",
+          "It was a joint project but Ado is trying to attract the most attention",
+          "We collated the idea for the show but Ado was trying to steal the programme."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "select the option that best explains the information conveyed in the sentence. ",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1658,
+        "question": "After too much exercise, some people suffer from cramp which is caused by the ......... of the muscles",
+        "options": [
+          "contraction",
+          "restriction",
+          "conscription",
+          "relaxation"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "For these questions, choose the option that best complete the gap(s) \n",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 1602,
+        "question": "From the words lettered A to D, choose the word that has the same consonant sound(s)\n\nStrange",
+        "options": [
+          "vague",
+          "mirage",
+          "logic",
+          "legume"
+        ],
+        "correctAnswer": 2,
+        "explanation": "the ''ge'' in ''strange'' is the same consonant sound as the ''g'' in logic\n\nstrange is pronounced as  [streɪn(d)ʒ]\n\n ",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 1726,
+        "question": "Four persons accused with currency ------------------ are being held by the securing agents\n",
+        "options": [
+          "traficking",
+          "trafiking",
+          "trafficking",
+          "traffic"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The correct answer is ‘C’ because it is properly spelt with the use of the correct tense. ‘Trafficking means’ the exploitative movement of people across boarders or the distribution of illegal drugs.",
+        "image": "",
+        "section": "From the options, choose the word(s) that best filll the gap.     ",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 1653,
+        "question": "It is impossible to say whether ......Ola and her sister will be offered jobs by the firm.",
+        "options": [
+          "both",
+          "either",
+          "each",
+          "neither"
+        ],
+        "correctAnswer": 0,
+        "explanation": "It is impossible to say whether both Ola and her sister will be offered jobs by the firm.\n\nBoth is used for emphasis to refer to two people or things, regarded and identified together.",
+        "image": "",
+        "section": "For these questions, choose the option that best complete the gap(s) \n",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 1158,
+        "question": "The girl says she is averse.....what others admire",
+        "options": [
+          "to",
+          "with",
+          "for",
+          "from"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'To'' as an adverb is used here to connect the relationship the speaker and the subject",
+        "image": "",
+        "section": "<b>In each of question 66 to 85, choose the option that best completes the gap (s)</b>\n",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 947,
+        "question": "The teacher who beat the student was treated with <u>mercy</u>?",
+        "options": [
+          "disrespect",
+          "contempt",
+          "vengeance",
+          "kindness"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mercy; to have compassion or forgiveness shown towards someone whom it is within one's power to punish or harm.\n\nvengeance; punishment inflicted or retribution exacted for an injury or wrong.",
+        "image": "",
+        "section": "In each of the questions 49 to 63 choose the word that is <b>opposite</b> in meaning to the underlined word.",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 1787,
+        "question": "You can <u>learn</u> a great deal just from watching other players.",
+        "options": [
+          "Discover.",
+          "Invent.",
+          "Accumulate.",
+          "Allow."
+        ],
+        "correctAnswer": 0,
+        "explanation": "learn; gain or acquire knowledge of or skill in (something) by study, experience, or being taught.",
+        "image": "",
+        "section": "Choose the option <b>nearest</b> in meaning to the underlined word or phrase.",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 1225,
+        "question": "One hundred and forty kilometres per hour is a <u>reasonable</u> speed limit. ",
+        "options": [
+          "acceptable",
+          "unbelievable",
+          "outrageous",
+          "detestable"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Reasonable:as much as is appropriate or fair; moderate.\n\nOutrageous: shockingly bad or excessive.",
+        "image": "",
+        "section": "choose the option nearly opposite in meaning to the word(s) underlined",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 88,
+        "question": "Each of the houses…………",
+        "options": [
+          " have got",
+          " Have",
+          "has",
+          "were given a new look."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option that best completes the gap(s).",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 529,
+        "question": "Uche is full of himself ",
+        "options": [
+          "He is concerted ",
+          "He is complete  ",
+          "He is a rich man ",
+          "He is careful."
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": " select the option that best explains the Information conveyed In the sentence. ",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 412,
+        "question": "The popularity of the military dictator <i>waned</i>  after war ",
+        "options": [
+          "increased ",
+          "changed ",
+          "declined ",
+          "skyrocketed."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase In Italics",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 486,
+        "question": " Idris' <i>forbearance</i> endeared him to us ",
+        "options": [
+          "hard work",
+          "patience ",
+          "wisdom ",
+          "good manners."
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 311,
+        "question": "The noise across the road  <i>drowned</i> the sound of the keyboard in my room",
+        "options": [
+          " neutralized ",
+          " overshadowed",
+          "balanced   ",
+          "equalized."
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "choose the option nearest in meaning to the word or phrase in italics.",
+        "examType": "UTME",
+        "examYear": "2007"
       }
     ]
   },
@@ -7065,6 +9289,150 @@ export const questionsBySubject = {
         ],
         "correctAnswer": 0,
         "explanation": "h/(n − 2) = (n + 3)/n\nn<sup>2</sup> = (n + 3) (n - 2) \n\nn<sup>2</sup> = n<sup>2</sup> + n - 6\n\nn2<sup>2</sup> + n - 6 - n<sup>2</sup> = 0\n\nn - 6 = 0\n\nn = 6\n\nCommon ratio: n/(n−2) = 6/(6 −2) = 6/4 = 3/2\n ",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1032,
+        "question": "What is the product of 27/5,(3)<sup>(−3)</sup> and (1/5)<sup>(−1)</sup>?",
+        "options": [
+          "5",
+          "3",
+          "1",
+          "1/25"
+        ],
+        "correctAnswer": 2,
+        "explanation": "27/5 × 3<sup>(−3)</sup> × (1)<sup>(−1)</sup>/5 = 27/5 × 1/3<sup>3</sup> × 1/(1/5)\n27/5 x 1/27 x 5/1 = 1",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1038,
+        "question": " Calculate the standard deviation of the following data: 7, 8, 9, 10, 11, 12, 13 ",
+        "options": [
+          "2",
+          "4",
+          "12",
+          "17"
+        ],
+        "correctAnswer": 0,
+        "explanation": "S.D = ∑√(x−x)<sup>2</sup>/N = ∑d<sup>2</sup>N = √28/7\n \n\n= √4\n \n\n= 2",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1042,
+        "question": "A school boy lying on the ground 30 m away from the foot of a water tank towel observes that the angle of elevation of the top of the tank is 60°\n. Calculate the height of the tank.",
+        "options": [
+          "60√3 m",
+          "30√3 m",
+          "20√3 m",
+          "10√3 m"
+        ],
+        "correctAnswer": 1,
+        "explanation": "h = 30 tan 60 \n\n= 30√3\n ",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1037,
+        "question": "If N225.00 yields N27.00 in x years simple interest at the rate of 4% per annum, find x. ",
+        "options": [
+          "3",
+          "4",
+          "12",
+          "17"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Principal = N225.00, interest = N27.00\n\nYear = x, Rate = 4% \n\n1 = PRT/100\n27 = (225 × 4 × X)/100 = 2700  = 900T\n\nT = 2700/900\n \n\n= 3 years",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1054,
+        "question": "The sum of the interior angle of pentagon is 6x + 6y. Find y in terms of x.",
+        "options": [
+          "y = 6 - x",
+          " y = 90 - x",
+          " y = 120 - x",
+          "y = 150 - x"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sum of interior angles = (2n - 4) 90°\n \n\nFor perntagon, n = 5 \n\nSum of interior angles = 6 x 90°\n = 540°\n \n\n6x + 6y = 540°\n \n\n6(x + y) = 540°\n \n\nx + y = 540°/6 = 90°\n \n\ny = 90°\n \n\ny = 90 - x",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1036,
+        "question": "Find the equation of the line through the points (5, 7) parallel to the line 7x + 5y = 12.",
+        "options": [
+          "5x + 7y = 120",
+          "7x + 5y = 70",
+          "x + y = 7",
+          "15x + 17y = 90"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Equation through (5,7) parallel to the line \n\n7x + 5y = 12\n\n5y = 7x + 12 \n\ny = −7x/5 + 12/5\nGradient = −7/5\n \nRequired equation = (y−7)/(x − 5) = −7/5\ni.e. 5y - 35 = -7x + 35\n\n5y + 7x = 70",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1031,
+        "question": "The angle of a sector of a circle radius 10.5 cm is 48o\n. Calculate the perimeter of the sector.",
+        "options": [
+          "25.4 cm",
+          "25.4 cm",
+          "25.6 cm",
+          "29.8 cm"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The lenght of Arc AB = Q/360 2πr\n\n= 48/360 x 22/27 x 10.5 = 48/360\n x 22/27 x 21/2= (4 × 22 × 3)/30 × 88/10 = 8.8cm \n\nPerimeter = 8.8 + 2r = 8.8 + 2r \n\n= 8.8 + 2(10.5)\n\n= 8.8 + 21\n\n= 29.8 cm\n",
+        "image": "",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1026,
+        "question": "The goals scored by 40 football teams from three league  divisions are recorded below\n\nNo of goals \t0\t1\t2\t3\t4\t5\t6\nFrequency\t 4\t3\t15\t16\t1\t0\t1\nWhat is the total number of goals scored by all the teams?",
+        "options": [
+          "21",
+          "40",
+          "91",
+          "96"
+        ],
+        "correctAnswer": 2,
+        "explanation": "∑fx = 91",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007046/ALOC-Questions/Mathematics/2020/JAMB_MATH_2020_Q9_ykem7a.jpg",
+        "section": "",
+        "examType": "2020",
+        "examYear": "utme"
+      },
+      {
+        "id": 1020,
+        "question": "Find all median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119 ",
+        "options": [
+          "131",
+          "125",
+          "123",
+          "120"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Arrange in ascending order\n\n89, 100, 108, 119, 120,130, 131, 131, 141, 161\n\nMedian = (120+130)/2 = 125",
         "image": "",
         "section": "",
         "examType": "2020",
@@ -14559,6 +16927,1894 @@ export const questionsBySubject = {
         "section": "",
         "examType": "UTME",
         "examYear": "2006"
+      },
+      {
+        "id": 530,
+        "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W\nIII. T ∩ W = S\nIf S⊂T⊂W, which of the above statements are true?",
+        "options": [
+          "I and II",
+          "I and III",
+          " II and III",
+          "I, II and III"
+        ],
+        "correctAnswer": 0,
+        "explanation": "If S ⊂ T ⊂ W,\n\nS ∩ T ∩ W = S is true since S ∩ T = S and S ∩ W = S.\n\nS ∪ T ∪ W = W is also true. S ∪ T = T and T ∪ W = W.\n\nHowever, to say that T ∩ W = S is not very true mathematically. Instead, it is safe to say S ⊂ (T ∩ W).",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 866,
+        "question": "Determine the mean score of the student that took the mathematics test?",
+        "options": [
+          "4.5",
+          "4.3",
+          "4.2",
+          " 4.6"
+        ],
+        "correctAnswer": 2,
+        "explanation": "(3 x 0) + (1 x 2) + (5 x 2) + (5 x 3) + (5 x 4) +\n(10 x 5) + (4 x 6) + (3 x 7) + (1 x 8) + (2 x 9) ÷\n 40\n\n= 168/40 = 4.2",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724003306/ALOC-Questions/Mathematics/2016/MATH_JAMB_2016_Q48_cmhnqy.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 496,
+        "question": "Find the area of the figure above\n[π = 22/7]",
+        "options": [
+          "12.5 cm2",
+          "75.0 cm2",
+          "78.5 cm2",
+          "84.8 cm2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Area of the figure = Area of rect + area of semi circle                                   =L×h+1/2 πr<sup>2</sup> 5×15+1/2×22/7×〖(5/2)〗<sup>2</sup>=75+((22×25))/(2×7)=75+9 23/28=84.8cm",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546154/ALOC-Questions/Mathematics/2008/MATH_2008_Q25_stpony.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 130,
+        "question": "If two graphs y = px<sup>2</sup>+ q and y = 2x<sup>2</sup> -1 intersect at x = 2, find the value of p in terms q.",
+        "options": [
+          "(q-8)/7",
+          "(7-q)/4",
+          "(8-q)/2",
+          "(7-q)/8"
+        ],
+        "correctAnswer": 1,
+        "explanation": "\n\tY = px <sup>2</sup> + q/5 = 2x<sup>2</sup> - 1 Right arrow px<sup>2</sup> + q = 2x<sup>2</sup> - 1\\px<sup>2</sup> = 2x<sup>2</sup> - 1 – q\\p = (2x<sup>2</sup> - q – 1) / x<sup>2</sup> \\ Atx = 2\\p = [(2(2<sup>2</sup>) – 1 – q)]/ 2<sup>2</sup> \\ p = [(8 – 1- q)]/ 4 \\ = ( 7 – q ) / 4                                                                                 ",
+        "image": "",
+        "section": "Solution.  <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>y</mi>\n  <mo>=</mo>\n  <mi>p</mi>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <mi>q</mi>\n  <mtext mathcolor=\"red\">\\y</mtext>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <mspace linebreak=\"newline\"></mspace>\n  <mi>R</mi>\n  <mi>i</mi>\n  <mi>g</mi>\n  <mi>h</mi>\n  <mi>t</mi>\n  <mi>a</mi>\n  <mi>r</mi>\n  <mi>r</mi>\n  <mi>o</mi>\n  <mi>w</mi>\n  <mi>p</mi>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>+</mo>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <msup>\n    <mtext mathcolor=\"red\">\\px</mtext>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>=</mo>\n  <mn>2</mn>\n  <msup>\n    <mi>x</mi>\n    <mrow data-mjx-texclass=\"ORD\">\n      <mn>2</mn>\n    </mrow>\n  </msup>\n  <mo>&#x2212;</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <mi>q</mi>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>2</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msup>\n      <mi>x</mi>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\At</mtext>\n  <mspace width=\"1mm\"></mspace>\n  <mi>x</mi>\n  <mo>=</mo>\n  <mn>2</mn>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mn>2</mn>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <msup>\n      <mn>2</mn>\n      <mrow data-mjx-texclass=\"ORD\">\n        <mn>2</mn>\n      </mrow>\n    </msup>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\p</mtext>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>8</mn>\n      <mo>&#x2212;</mo>\n      <mn>1</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n  <mtext mathcolor=\"red\">\\=</mtext>\n  <mfrac>\n    <mrow>\n      <mn>7</mn>\n      <mo>&#x2212;</mo>\n      <mi>q</mi>\n    </mrow>\n    <mn>4</mn>\n  </mfrac>\n</math>                                             ",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1261,
+        "question": "Given that A = {3, 4, 1, 10, ⅓ }\n\nB = {4, 3,⅓, ⅓, 7}.\n\nFind A∩B",
+        "options": [
+          "{}",
+          "{⅓, 1, 2}",
+          "{3, 4, ⅓}",
+          "{1, 3, ⅓}"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A ∩ B = {3, 4, ⅓}",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 918,
+        "question": "Determine the distance between point P(3, 4) and Q(4,5)",
+        "options": [
+          "2",
+          "√5\n ",
+          "√2",
+          "1"
+        ],
+        "correctAnswer": 0,
+        "explanation": "((x<sub>1</sub>,y<sub>1</sub>)=(3,4),  (x<sub>2</sub>,y<sub>1</sub>) = (4,5) d =√(〖(x<sub>2</sub> -x<sub>1</sub>)<sup>2</sup> +〖(y<sub>2</sub>-y<sub>1</sub>)〗<sup>2</sup> ) & d=√(〖(4 - 3)<sup>2</sup> +〖(5 - 4)〗<sup>2</sup> ) & d=√(1<sup>2</sup> + 1<sup>2</sup> ) = √2)",
+        "image": "",
+        "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\">\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi></mi>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>1</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>,</mo>\n        <mtext>&#xA0;</mtext>\n        <mo stretchy=\"false\">(</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>x</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo>,</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <msub>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi>y</mi>\n            </mrow>\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mn>2</mn>\n            </mrow>\n          </msub>\n        </mrow>\n        <mo stretchy=\"false\">)</mo>\n        <mo>=</mo>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>5</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>x</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>2</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo>&#x2212;<!-- − --></mo>\n                <mrow class=\"MJX-TeXAtom-ORD\">\n                  <msub>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mi>y</mi>\n                    </mrow>\n                    <mrow class=\"MJX-TeXAtom-ORD\">\n                      <mn>1</mn>\n                    </mrow>\n                  </msub>\n                </mrow>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>4</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>3</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mo stretchy=\"false\">(</mo>\n                <mn>5</mn>\n                <mo>&#x2212;<!-- − --></mo>\n                <mn>4</mn>\n                <mo stretchy=\"false\">)</mo>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd />\n      <mtd>\n        <mi>d</mi>\n        <mo>=</mo>\n        <msqrt>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n          <mo>+</mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <msup>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>1</mn>\n              </mrow>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n          </mrow>\n        </msqrt>\n        <mo>=</mo>\n        <msqrt>\n          <mn>2</mn>\n        </msqrt>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 1270,
+        "question": "Simplify 6(1/12) − 2¾ + 1½",
+        "options": [
+          "3(5/6)",
+          "4(5/6)",
+          "2(1/6)",
+          "1/3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "6½ − 2¾ + 1½\n\n73/12 − 11/4 + 3/2\n\n[(73 − 33 + 18) ÷ (12)]\n\n58/12\n\n29/6\n\n4(5/6)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 1111,
+        "question": "Integrate (2x+1)<sup>3</sup>",
+        "options": [
+          "2x+1<sup>3</sup>/8\n  + C",
+          "2x+1<sup>4</sup>/8\n + C",
+          " 2x+1<sup>4</sup>/4\n + C",
+          " 2x+1<sup>2</sup>/6\n + C"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Recall chain rule: \n\nu = 2x +1; du = 2dx → dx = du/2\n\nu<sup>3</sup>\n = ∫ u<sup>3</sup>\n du/2\n → 1/2\n ∫ u<sup>3</sup>\n=  1∗u<sup>4</sup>/2∗4\n \n\n=  u<sup>4</sup>/8\n →  2x+1<sup>4</sup>8\n + C",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 278,
+        "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+        "options": [
+          " The diagonal QS",
+          "the perpendicular bisector of PQ",
+          "The diagonal PR",
+          "side SR"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The diagonal QS bisects the angle formed by PQ and QR\n∴ [A]",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 419,
+        "question": "Find the roots of x<sup>3</sup> - 2x<sup>2</sup> - 5x + 6 = 0",
+        "options": [
+          "1, -2, 3",
+          " 1, 2, -3,",
+          " -1, -2, 3",
+          "-1, 2, -3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Equation: x<sup>3</sup>\n - 2x<sup>2</sup>\n - 5x + 6 = 0.\n\nFirst, bring out a<sub>n</sub>\n which is the coefficient of x<sup>3</sup>\n = 1.\n\nThen, aa<sub>0</sub>\n which is the coefficient void of x = 6.\n\nThe factors of aa<sub>n</sub>\n = 1; The factors of aa<sub>0</sub>\n = 1, 2, 3 and 6.\n\nThe numbers to test for the roots are ±(a<sub>n0/sub>/aa<sub>n</sub>)\n. = ±(1,2,3,6).                                              \nTest for +1: 1<sup>3</sup\n - 2(1<sup>2</sup\n) - 5(1) + 6 = 1 - 2 - 5 + 6 = 0.\n\nTherefore x = 1 is a root of the equation.\n\nUsing long division method, x<sup>3</sup−2x<sup>2</sup−5x+6/(x−1)\n = x<sup>2</sup - x - 6.\n\nx<sup>2</sup - x - 6 = (x - 3)(x + 2).\n\nx = -2, 3.\n\n∴\n The roots of the equation = 1, -2 and 3.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 369,
+        "question": "The histogram above shows the distribution of the distribution of the monthly incomes of the workers in a company. How many workers earn more than N700.000?",
+        "options": [
+          "16",
+          "12",
+          "8",
+          "6"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Workers earning more than N700.00 = 4 + 6 + 2 = 12",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702571/ALOC-Questions/Mathematics/2005/math_2005_q48_xftxzo.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 557,
+        "question": "The distance traveled by a particle from a fixed point is given as s = (t<sup>3</sup> - t<sup>2</sup> - t + 5)cm. Find the minimum distance that the particle can cover from the fixed point?",
+        "options": [
+          "2.3 cm",
+          "4.0 cm",
+          "5.2 cm",
+          "6.0 cm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "S = t<sup>3</sup> - t<sup>2</sup> - t + 5\nds/dt = 3t<sup>2</sup> - 2t - 1\nAs ds = 0\n3t<sup>2</sup> - 2t - 1 = 0\n(3t+1)(t-1) = 0\n∴ t = 1 or -1/3\nAt min pt t = 1\nS = t<sup>3</sup> - t<sup>2</sup> - t + 5\n\nput t = 1\n= 1<sup>3</sup> - 1<sup>2</sup> - 1 + 5\n= 1 - 1 - 1 + 5\n\n= 4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 731,
+        "question": "Find the remainder when 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1 is divided by x + 3",
+        "options": [
+          "-871",
+          "-781",
+          "-187",
+          " -178"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Hence f(x) = 2x<sup>3</sup>  - 11x<sup>2</sup>  + 8x - 1\n\nf(-3) = 2(-3)<sup>3</sup>  - 11(-3)<sup>2</sup>  + 8(-3) - 1\n\n= 2(-27) - 11(9) + 8(-3) - 1\n\n= -54 - 99 - 24 - 1\n\n= -178",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 449,
+        "question": "Simplify 3/5÷(2/7×4/3÷4/9)",
+        "options": [
+          "4/5",
+          "7/10",
+          "6/6",
+          "21/6"
+        ],
+        "correctAnswer": 1,
+        "explanation": "3/5÷(2/7×4/3÷4/9)=3/5÷(2/7×4/3×9/4)=3/5÷6/7=3/5×7/6=7/10",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 823,
+        "question": "If the 2nd term of a G.P is 8/9\n and the 6th term is 4(1/2)\n. Find the common ratio.",
+        "options": [
+          "2",
+          "3/2",
+          "2/3",
+          "3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "T<sub>2</sub = 8/9, T<sub>6</sub> = 4(1/2)\nar = 8/9\n\nar<sup>5</sup> = 9/2\n\n\nar/ar<sup>5</sup> = 8/9\n x 2/9\n\n\n1/r<sup>4</sup>\n = 16/81\n\n\nr = 4√(18/16) = 3/2",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 872,
+        "question": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\nπ = 22/7",
+        "options": [
+          "2.6cm",
+          "3.5cm",
+          "3.6cm",
+          "7.0cm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Curved surface area of cylinder = 2πrh\n\n110 = 2 × 22/7 × r × 5\n\nr = (110×7)/(44×5)\n\n\n= 3.5cm",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 554,
+        "question": "Find the value of sin 45° - cos 30°",
+        "options": [
+          "(2+√3)/4",
+          "(√2+√3)/4",
+          "(√3+√3)/2",
+          "(√2−√3)/2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Sin45 − cos30.    √2/2− √3/2 = (√2−√3)/2",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 416,
+        "question": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1-2<sup>8</sup>?",
+        "options": [
+          "12",
+          "10",
+          "9",
+          "8"
+        ],
+        "correctAnswer": 2,
+        "explanation": "3, -6, +12, -24\na = 3, r = -2\n8n=a(1−r<sup>n</sup>)/1−r.     ∴1−2<sup>8</sup>=3(1−(−2<sup>n-1</sup>))/1−(−2).       1−2<sup>8</sup>=3(1−(−2<sup>n-1</sup>))/3\n\n1-2<sup>8</sup> = 1-(-2)n-1\n-22<sup>8</sup> = -2<sup>n-1</sup>\n8 = n-1\nn = 9",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 363,
+        "question": "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls",
+        "options": [
+          "17/50",
+          "3/25",
+          "1/50",
+          "3/250"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Blue balls = 5\nRed balls = 3\nWhite balls = 2\nTotal = 10\nP(Two blue) = 5/10 * 5/10 = 25/100\nP(Two Red) = 3/10 * 3/10 = 9/100\n∴P(Two blue or two red balls)\n= 25/100 + 9/100\n= 34/100\n= 17/50",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 361,
+        "question": "In how many ways can 6 coloured chalks be arranged if 2 are same colour?",
+        "options": [
+          "60",
+          "120",
+          "240",
+          "360"
+        ],
+        "correctAnswer": 3,
+        "explanation": "6!/2!=ways=(6×5×4×3×2!)/2!=6×5×4×3=360ways",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 562,
+        "question": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "correctAnswer": 2,
+        "explanation": "\nMean =\t∑fx/∑fx\n \n\n\n5.7 =55+k/10\n\n57 = 55 + k\nk = 57 - 55\nk = 2",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715547324/ALOC-Questions/Mathematics/2009/MATH_2009_Q41_SOLUTION_kripfc.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 567,
+        "question": "What value of x will make the function x(4 - x) a maximum?",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "correctAnswer": 2,
+        "explanation": "x(4 - x)\n\n4x - x2\n\ndy/dx = 4 - 2x\n\ndy/dx = 0\n\n2x = 4\n\nx = 4/2\n\n= 2",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 357,
+        "question": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "12"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Angle of Excellent\n= 360 - (120+80+90)\n= 360 - 290\n= 70o\nIf 360o represents 36 students\n1o will represent 36/360\n50o will represent 36/360 * 70/1\n= 7",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702357/ALOC-Questions/Mathematics/2005/math_2005_q36_jdk6q5.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 592,
+        "question": "Find r, if 6r7<sub>8</sub> = 511<sub>9</sub>",
+        "options": [
+          "3",
+          "2",
+          "6",
+          "5"
+        ],
+        "correctAnswer": 0,
+        "explanation": " 6r7<sub>8</sub> = 511<sub>9</sub>                               \n6 x 8<sup>2</sup> + r x 8<sup>1</sup> + 7 x 8<sup>0</sup> = 5 x 9<sup>2</sup> + 1 x 9<sup>1</sup> + 1 x 9<sup>0</sup>\n\n6 x 64 + 8r + 7 x 1 = 5 x 81 + 9 + 1 x 1\n\n384 + 8r + 7 = 405 + 9 + 1\n\n \n\n8r = 415 - 391\n\n 8r = 24\n\nr = 24/8\n\n= 3",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 508,
+        "question": "The bar chart above shows the number of times the word a, and , in, it, the , to appear in a paragraph in a book. What is the ratio of the least frequent word?",
+        "options": [
+          " 1/4",
+          "1/3",
+          "2/3",
+          "3/4"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ratio of least to most = 3:12\n= 3/12\n= 1/4",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1715546269/ALOC-Questions/Mathematics/2008/MATH_2008_Q37_rkcwin.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 854,
+        "question": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
+        "options": [
+          " 720 litres",
+          "160 litres",
+          "225 litres",
+          "960 litres"
+        ],
+        "correctAnswer": 2,
+        "explanation": "120km → 45litres\n1km → 45/120litres\n600km → 45/120 x 600 =225litres",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 157,
+        "question": "If <sup>6</sup>P<sub>r</sub> = 6, find the value of If <sup>6</sup>P<sub>r+1</sub> ",
+        "options": [
+          "30",
+          "33",
+          "35",
+          "15"
+        ],
+        "correctAnswer": 0,
+        "explanation": "6Pr = 6 Thus r = 1\n\nN.B 6P<sup>1</sup> = 6!/(6-1)!\n=6!/5!\n= 6x 5!/5! = 6\n= 6P<subr+1</sub> = 6P<sub>2</sub> =  6!/(6-2)! =6!/4!\n \n = (6x5x4!)/4!\n= 30",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1177,
+        "question": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30° and 60°, respectively. Determine the second building's height.",
+        "options": [
+          "24 m",
+          "32√3m",
+          "24√3",
+          " 32 m"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The height of the second building H = h + 24\n\ntan θ = opp/adj\ntan 30° = h/x\n⟹3√3 = h/x\n⟹x = √3 = 3h\n⟹x = 3h/√3 ....(i)\n\ntan 60° = 24/x\n⟹√3 = 24x\n⟹x√3 = 24\n⟹x = 24/√3 ....(ii)\n\nEquate equation (i) and (ii)\n\n⟹3h/√3 = 24/√3\n⟹ 3h = 24\n\n⟹h = 24/3 = 8m\n\n∴The height of the second building = 8 + 24 = 32m",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 305,
+        "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction the the third teacher receive?",
+        "options": [
+          "8/15",
+          "11/25",
+          "12/25",
+          " 13/25"
+        ],
+        "correctAnswer": 3,
+        "explanation": "First teacher received 2/5\n ∴Remainder =1−2/5=3/5\n\n2nd teacher received; 2/15 of 3/5 = 2/15 × 3/5 = 2/25\n\n3rd teacher will receive; 1−2/5 – 2/25 = (25−10−2)/15 = 13/25",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 1115,
+        "question": "The locus of points equidistant from a fixed point.",
+        "options": [
+          "circle",
+          "perpendicular lines",
+          " straight line",
+          " bisector"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Definition of a circle",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 1195,
+        "question": "If P = {1,2,3,4,5} and P ∪\n Q = {1,2,3,4,5,6,7}, list the elements in Q",
+        "options": [
+          "{6}",
+          "{7}",
+          " {6,7}",
+          "{5,6}"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Q = (P ∪ Q) - P\n{6,7}",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 275,
+        "question": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm 2, find the area of the trapezium PQRU",
+        "options": [
+          "60 cm2",
+          "72 cm2",
+          "48 cm2",
+          "24 cm2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Area of parallelogram PQTU = base * height\n32 = 4 * h\nw = 32/4\nw = 8\n∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8\n= 1/2 * (18 * 8)\n= 72 cm2",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710700535/ALOC-Questions/Mathematics/2004/math_2004_q4_fsnzjv.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 359,
+        "question": "The model height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r respectively. Find m+2r.",
+        "options": [
+          "1.35",
+          "1.65",
+          "1.95",
+          "3.00"
+        ],
+        "correctAnswer": 2,
+        "explanation": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20\nModal height = 1.35\nRange (r) = 1.50 - 1.20\n= 0.30\n∴m + 2r = 1.35 + 2(0.30)\n= 1.35 + 0.60\n= 1.95",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 583,
+        "question": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
+        "options": [
+          "10 cm<sup>2</sup>",
+          "6 cm<sup>2</sup>",
+          " 24 cm<sup>2</sup>",
+          "8 cm<sup>2</sup>"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Area of a triangle = 1/2 base x height\n= 1/2 x 4 x 5\n= 10 cm<sup>2</sup>",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128286/ALOC-Questions/Mathematics/2010/MATH_2010_Q12_SOLUTION_sixqeq.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1191,
+        "question": "If log7.5 = 0.8751, evaluate 2 log75 + log750",
+        "options": [
+          "6.6252",
+          "6.6253",
+          "66.252",
+          "66.253"
+        ],
+        "correctAnswer": 1,
+        "explanation": "If log 7.5 = 0.8751\nThen 2log75 + log750\n= 2(1.8751) + 2.8751\n= 3.7502 + 2.8751\n= 6.6253",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2014"
+      },
+      {
+        "id": 497,
+        "question": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
+        "options": [
+          "30°",
+          "45°",
+          " 60°",
+          " 90°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "If a length of a chord is equal to the length of a radius in the same circle, the triangle formed y the chord and the radii is an equilateral triangle\n∴each angle = 60°",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 996,
+        "question": "The nth term of a sequence is given by 2<sup>(2n−1)</sup>. Find the sum of the first four terms.",
+        "options": [
+          "74",
+          "32",
+          "42",
+          "170"
+        ],
+        "correctAnswer": 3,
+        "explanation": "T<sub>n</sub> = 2<sub>(2n−1)</sub>\n \nT<sub>1</sub> = 2<sup>(2(1)−1</sup>\n= 2\n\nT<sub>2</sub> = 2<sup>(2(2)−1)</sup>\n= 8\n\nT<sub>3</sub> = 2<sup>(2(3)−1)</sup>\n= 32\n\nT<sub>4</sub> = 2<sup>(2(4)−1)</sup>\n= 128\n\nT<sup>1</sup>+T<sup>2</sup>+T<sup>3</sup>+T<sup>4</sup> = 2 + 8 + 32 + 128\n= 170",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 1243,
+        "question": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( π = 3.14)",
+        "options": [
+          "17.8 cm<sup>2</sup> ",
+          "15.8 cm<sup>2</sup> ",
+          "75.4 cm<sup>2</sup> ",
+          "377.0 cm<sup>2</sup> "
+        ],
+        "correctAnswer": 3,
+        "explanation": "The total surface area of a cylinder = 2πrl + 2πr<sup>2</sup> \n\n= 2πr(l + r)\n\n= 2 × 3.14 x 5(7+5)\n\n2 × 3.14 × 12 x 5\n\n= 377.1 cm (1DP)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 494,
+        "question": "Find the exterior angle of a 12 sided regular polygon",
+        "options": [
+          "12°",
+          "24°",
+          "25°",
+          "30°"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Exterior angle = 360 / n\n= 360 / 12\n= 30°",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 124,
+        "question": "Given that p = 1 + √2 and q = 1 - √2, evaluate (p<sup>2</sup> - q<sup>2</sup> /2pq)",
+        "options": [
+          "2(2+√2)",
+          "-2(2+√2)",
+          "2√2",
+          " -2√2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>p</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>+</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mspace width=\"1mm\"></mspace>\n  <mi>a</mi>\n  <mi>n</mi>\n  <mi>d</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mi>q</mi>\n  <mo>=</mo>\n  <mn>1</mn>\n  <mo>&#x2212;</mo>\n  <msqrt>\n    <mn>2</mn>\n  </msqrt>\n  <mo>,</mo>\n  <mspace width=\"1mm\"></mspace>\n  <mi>e</mi>\n  <mi>v</mi>\n  <mi>a</mi>\n  <mi>l</mi>\n  <mi>u</mi>\n  <mi>a</mi>\n  <mi>t</mi>\n  <mi>e</mi>\n  <mspace width=\"1mm\"></mspace>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <msup>\n        <mi>p</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;</mo>\n      <msup>\n        <mi>q</mi>\n        <mrow data-mjx-texclass=\"ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <mi>p</mi>\n      <mi>q</mi>\n    </mrow>\n  </mfrac>\n</math>",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 522,
+        "question": "If 55<sub>x</sub> + 52<sub>x</sub> = 77<sub>10</sub> find X",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "10"
+        ],
+        "correctAnswer": 2,
+        "explanation": "5 × x<sup>1</sup>  + 5 × x<sup>0</sup> + 5 × x<sup>1</sup> + 2 × x<sup>0</sup> = 77.                                 (change all  to base 10)\n5x + 5 + 5x + 2 = 77\n10x + 7 = 77\n10x = 77-7\n10x = 70\nx = 70/10\nx = 7",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 626,
+        "question": "Simplify (16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>",
+        "options": [
+          "2/3",
+          "1/2",
+          "8/9",
+          "1/3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "(16/81 )<sup>(1/4)</sup>÷(9/16 )<sup>(-1/2)</sup>                       (16/81))<sup>(1/4)</sup> ÷ (16/9)1/2\n\n\n(2<sup>4</sup>/3<sup>4</sup>))<sup>(1/4)</sup> ÷ (4<sup>2</sup>/3<sup>2</sup>)<sup>1/2</sup>\n\n\n2)<sup>4 x (1/4)</sup>/3<sup>4 x (1/4)</sup> ÷ 4<sup>2 x 1/2</sup> 3<sup>2 x 1/2</sup> \n\n2/3 ÷ 4/3\n\n\n2/3 × 3/4\n\n\n2/4\n\n\n1/2",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>16</mn>\n    <mn>81</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mfrac>\n        <mn>1</mn>\n        <mn>4</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n  <mo>&#x00F7;<!-- ÷ --></mo>\n  <mo stretchy=\"false\">(</mo>\n  <mfrac>\n    <mn>9</mn>\n    <mn>16</mn>\n  </mfrac>\n  <msup>\n    <mo stretchy=\"false\">)</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mo>&#x2212;<!-- − --></mo>\n      <mfrac>\n        <mn>1</mn>\n        <mn>2</mn>\n      </mfrac>\n    </mrow>\n  </msup>\n</math>",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 302,
+        "question": "Factorize completely ac - 2bc - a + 4b<sup>2</sup>",
+        "options": [
+          "(a - 2b)(c - a - 2b)",
+          " (a - 2b)(c + a +2b)",
+          " (a - 2b)(c - a + 2b)",
+          " (a - 2b)(c + a - 2b)"
+        ],
+        "correctAnswer": 0,
+        "explanation": "ac - 2bc - a<sup>2</sup> + 4b<sup>2</sup>\nac - 2bc - (a<sup>2</sup> - 4b<sup>2</sup>)\nac - 2bc - (a<sup>2</sup> -(2b)<sup>2</sup>)\nc(a - 2b) - {(a - 2b)(a + 2b)}\n(a - 2b)(c - (a + 2b))\n(a - 2b)(c - a - 2b)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 668,
+        "question": "In how many ways can the letters of the word ELATION be arranged?",
+        "options": [
+          " \n5!",
+          " \n7!",
+          "8!",
+          " \n6!"
+        ],
+        "correctAnswer": 1,
+        "explanation": "<sup>7</sup>P<sub>7</sub = 7!",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 1158,
+        "question": "Find the equation of straight line passing through (2, 3) and perpendicular to the line 3x+2y+4=0",
+        "options": [
+          " 3y = 5x - 2",
+          " y = 5/3× − 2",
+          "None of these",
+          " 3y = 2x + 5"
+        ],
+        "correctAnswer": 3,
+        "explanation": "3x + 2y + 4 = 0\nRearrange:\n\n2y = −3x − 4\nDivide both sides by 2\n\ny = (−3× − 4)/2\ny = −3/2×−2\n∴ the gradient of the line 3x + 2y + 4 = 0 is −3/2\nIf two lines are perpendicular to each other ∴ m<sub>1</sub>xm<sub>2</sub> = -1\n\nLet m<sub>1</sub> =−3/2 ∴ m<sub>2</sub> = −1/m<sub>1</sub> = −1/(−3/2) = 2/3\nFrom the equation of a line which is given as m = (y − y<sub>1</sub>)/x − x<sub>1</sub>) where (x<sub>1</sub>, y<sub>1</sub>) = (2, 3)\n∴ 2/3 = (y − 3)/x − 2)\n=3(y  -  3) = 2(x  -  2)\n\n= 3y  -  9  =  2  x  -4\n\n= 3y  =  2  x  -4  +  9\n\n∴ 3y  =  2x  +  5",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 576,
+        "question": " Factorize completely (x<sup>3</sup>+3x<sup>2</sup>-10x)/(2x<sup>2</sup>-8)",
+        "options": [
+          "\nx(x-5)/2(x+2)",
+          "\nx(x-5)/2(x-2)",
+          "\nx(x+5)/2(x+2)",
+          "\nx2+5/2x+4"
+        ],
+        "correctAnswer": 2,
+        "explanation": "x<sup>3</sup> + 3x<sup>2</sup> − 10x/2x<sup>2</sup> − 8 = x(x<sup>2</sup> + 3x − 10)/2(x<sup>2</sup> − 4)\n= x(x<sup>2</sup> − 2x +5x − 10)/2(x − 2)(x + 2)\n= x(x − 2)(x + 5)/2(x − 2)(x + 2)\n= x(x + 5)/2(x + 2)",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>3</mn>\n        </mrow>\n      </msup>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>10</mn>\n      <mi>x</mi>\n    </mrow>\n    <mrow>\n      <mn>2</mn>\n      <msup>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mn>2</mn>\n        </mrow>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>8</mn>\n    </mrow>\n  </mfrac>\n</math>",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 142,
+        "question": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
+        "options": [
+          "6.5 units",
+          "13.0 units",
+          "3.5 units",
+          "7.0 units"
+        ],
+        "correctAnswer": 0,
+        "explanation": "PQ<sup>2</sup> = (x<sub>2</sub> - x<sub>1</sub>)<sup>2</sup> + (y<sub>2</sub> - y<sub>1</sub>)<sup>2</sup>\n\n= 12<sup>2</sup> + 5<sup>2</sup>\n= 144 + 25\n= 169\n\nPQ = √169 = 13\n\nBut PQ = diameter = 2r, r = PQ/2 = 6.5 units",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 385,
+        "question": "Evaluate ∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx",
+        "options": [
+          "-16",
+          "-20",
+          " 20",
+          "10"
+        ],
+        "correctAnswer": 2,
+        "explanation": "∫<sub>-4</sub>\n<sup>0</sup>(1-2x)dx=[x-x<sup>2</sup> ]<sub>-4</sub><sup>0</sup> \"\\=\" (0-0+C)-(-4(-4)<sup>2</sup>+C)=C-(-4-16+C)=C-(-20+C)=C+20-C=20",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 350,
+        "question": "If y = (1 - 2x)<sup>3</sup>\n, find the value of dy/dx at x = -1",
+        "options": [
+          "57",
+          "27",
+          "-6",
+          "-54"
+        ],
+        "correctAnswer": 3,
+        "explanation": "y = (1 - 2x)<sup>3</sup>\n\nlet u = 1-2x\ndu/dx = -2\n∴y = u<sup>3</sup>\n\ndy/du = 3u<sup>2</sup>\n\nBut dy/dx = du/dx * dy/du\n= -2 * 3u<sup>2</sup>\n\n= -6u<sup>2</sup>\n\n= -6(1-2x)<sup>2</sup>\n\nAt x = -1: dy/dx = -6(1 - 2(-1))<sup>2</sup>\n\ndy/dx = -6(1 + 2)<sup>2</sup>\n\n= -6 * 3<sup>2</sup>\n\n= -6 * 9\n= -54\n",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 1094,
+        "question": "List all integers satisfying the inequality in -2 < 2x-6 < 4 ",
+        "options": [
+          "2,3,4 and 5",
+          "2,3",
+          "2,5",
+          "3,4"
+        ],
+        "correctAnswer": 3,
+        "explanation": "-2 < 2x - 6   AND  2x - 6 < 4\n\n-2 + 6 <2x  AND  2x < 4 + 6\n\n4 <2x  AND  2x < 10\n\n: 2 <x  AND x <5\n\n2 < x < 5 \n\nAs 3 and 4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 1062,
+        "question": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm2\n, find the distance between the parallel sides",
+        "options": [
+          "13 cm",
+          "4 cm",
+          "6 cm",
+          "7 cm"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Area of Trapezium = 1/2(sum of parallel sides) * h\n91 = 1/2 (5 + 9)h\n\ncross multiply\n91 = 7h\nh = 91/7\n\nh = 13 cm",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007318/ALOC-Questions/Mathematics/2021/MATH_JAMB_2021_Q5_ienw34.png",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 781,
+        "question": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q = 8/5",
+        "options": [
+          "12(8/5)",
+          "15",
+          "10",
+          "28(8/5)"
+        ],
+        "correctAnswer": 2,
+        "explanation": "P ∝ mu, p ∝1/q\n\n\np = muk ................ (1)\n\np = 1/qk... (2)\n\nCombining (1) and (2), we get\n\nP = (mu/q)k\n\n\n4 = (m × u/1)k\n\n\ngiving k = 4/6 = 2/3\n\n\nSo, P = mu/q × 2/3 =(2mu/3q)\n\n\nHence, P = (2 × 6 × 4)/(3 ×8/5)\n\n\nP = (2 × 6 × 4 × 5/3 × 8)\n\n\np = 10",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 520,
+        "question": "\nA student sitting on a tower 68 metres high observes his principal's car at the angle of depression of 20°. How far is the car from the bottom of the tower to the nearest metre?",
+        "options": [
+          "184 m",
+          "185 m",
+          "186 m",
+          "187 m"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tan 20° = 68m/x\n\nx tan 20° = 68\n\nx = 68/tan20 = 68/0.364\n\nx = 186.8\n\n= 187m",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 189,
+        "question": "ake r subject of the formula given that x/r+a = a/r",
+        "options": [
+          "a<sub>2</sub>/(x−a)",
+          "a<sub>2</sub>/(x+a)",
+          "a/(x - a)",
+          "a/(x + a)"
+        ],
+        "correctAnswer": 0,
+        "explanation": "x/r+a = a/r\n \n⟹ rx = ar + a<sub>2</sub>\nrx − ra = a<sub>2</sub> ⟹ r = a<sub>2</sub>/ (x−a)",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mi>x</mi>\n    <mrow>\n      <mi>r</mi>\n      <mo>+</mo>\n      <mi>a</mi>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mi>a</mi>\n    <mi>r</mi>\n  </mfrac>\n</math>",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 214,
+        "question": "In the diagram above, PST is a straight line, PQ = QS = RS. If ∠RST = 72°, find x",
+        "options": [
+          "36°",
+          "18°",
+          "72°",
+          "24°"
+        ],
+        "correctAnswer": 3,
+        "explanation": "In Δ PQS, ∠PSQ = X(base ∠s of isoc Δ PQS)\nIn Δ QRS, ∠RQS = ∠PSQ + X(Extr ∠ = sum of two intr. opp ∠s)\n∴ ∠RQS = X + X\n= 2X\nAlso ∠QRS = 2X(base ∠s of isoc Δ QRS in Δ PRS,\n72 = ∠RPS + ∠PRS(Extr, ∠ = sum of two intr. opp ∠s)\n∴ 72 = x + 2x\n72 = 3x\nx = 72/3\nx = 24°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710697968/ALOC-Questions/Mathematics/2002/math_2000_q43_ugfbxx.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 770,
+        "question": "Convert 27<sub>10</sub>  to another number in base three",
+        "options": [
+          "1001<sub>3</sub> ",
+          "1010<sub>3</sub> ",
+          "1100<sub>3</sub> ",
+          "1000<sub>3</sub> "
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 670,
+        "question": "In a class of 60 students, 30 offers physics and 40 offers chemistry. If a students is picked at random from the class, what is the probability that the student offer both physics and Chemistry?",
+        "options": [
+          "1/2",
+          "1/6",
+          "1/4",
+          "1/3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "60 = 30 – x + x + 40 – x\n\n60 = 70 – x\n\nx = 10\n\nn(P∩C)=10\nProb(P∩C)=10/60=1/6",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716129944/ALOC-Questions/Mathematics/2011/JAMB_MATH_2011_Q49_SOLUTION_dbv0wq.png",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 768,
+        "question": "Find dy/dx if y = cosx\n.",
+        "options": [
+          " sinx",
+          "−sinx",
+          "tanx",
+          "−tanx"
+        ],
+        "correctAnswer": 1,
+        "explanation": "If y = cosx                            dy/dx =—sinx",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 308,
+        "question": "Given that 3√4<sup>2x</sup>  = 16, find the value of x",
+        "options": [
+          "4",
+          "6",
+          "3",
+          "2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "4<sup>2x</sup>  = 16\nthis implies that (3√4<sup>2x</sup>)<sup>3</sup>. 4<sup>2x</sup>  = 4<sup> 2*3</sup>\n4<sup>2x</sup>= 4<sup>6</sup>\n∴ 2x = 6\nx = 3",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 490,
+        "question": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
+        "options": [
+          "12",
+          "4",
+          "-12",
+          "-24"
+        ],
+        "correctAnswer": 3,
+        "explanation": "U5 = 24, n = 5 and U11 = 96, n = 11\nUn = a + (n-1)d\n24 = a + (5-1)d imply 24 = a+4d .....eqn1\n96 = a + (11-1)d imply 96 = a+10d ...eqn2\neqn1 - eqn2 -72 = -6d\nd = 72/6 = 12\nbut 24 = a+4d\n24 = a + 4(12)\n24 = a + 48\na = 24-48\na = -24",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 925,
+        "question": "Solve for t in the equation 3/4\nt + 13\n(21 - t) = 11",
+        "options": [
+          "9/13",
+          "7/13",
+          "5",
+          "9(3/5)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "3/4 t + 1/3 (21 - t) = 11\n\nMultiply through by the LCM of 4 and 3 which is 12\n\n12 x(3/4 t) + 12 x (1/3 (21 - t)) = (11 x 12)\n\n9t + 4(21 - t) = 132\n\n9t + 84 - 4t = 132\n\n5t + 84 = 132\n\n5t = 132 - 84 = 48\n\nt = 48/5\nt = 9(3/5)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 147,
+        "question": "If the gradient of the curve y = 2kx<sup>2</sup> + x + 1 at x = 1 is 9, find k.",
+        "options": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "correctAnswer": 2,
+        "explanation": "y = 2kx<sup>2</sup> + x + 1\nGradient function dy/dx = 4kx + 1\nat dy/dx = 9, => 9 = 4kx + 1\n=> 8 = 4kx, and k = 8/4x.\n\nAt x = 1, k = 8/4 = 2",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1183,
+        "question": "Find the area, to the nearest cm<sup>2</sup>, of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
+        "options": [
+          "1162 cm<sup>2</sup>",
+          " 1163 cm<sup>2</sup>",
+          "1160 cm<sup>2</sup>",
+          "1161 cm<sup>2</sup>"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Let the length of the sides of triangle be 2x, 3x and 4x.\n\nPerimeter of triangle = 180cm\n\n⇒ 2x + 3x + 4x = 180\n⇒ 9x = 180\n⇒ x=180/9\n = 20 cm\n\nThen the sides of the triangle are:\n\n2x = 2 × 20 = 40 cm; 3x = 3 × 20 = 60cm and 4x = 4 × 20 = 80cm\n\nUsing Heron's formula\n\nArea of triangle = s√(s−a)(s−b)(s−c)\nWhere s = (a + b + c)/2\nLet a = 40cm, b = 60cm, c = 80cm and s = (40 + 60 + 80)/2 =180/2 = 90cm\n\n⇒ A = √90(90−40)(90−60)(90−80)=√90×50×30×10=√(1350000)\n∴ A =1162cm<sup>2</sup> (to the nearest cm<sup>2</sup>)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 538,
+        "question": "Find to infinity, the sum of the sequence 1,9/10,(9/10)<sup>2</sup>,(9/10)<sup>3</sup>,…..",
+        "options": [
+          "10",
+          " 9",
+          "10/9",
+          " 9/10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "a=1, r = 9/10.   S<sub>2n</sub> = a/(1−r).   S<sub>n</sub> = 1/(1−9/10) = 1÷(1/10) = 1 × 10/1.    10",
+        "image": "",
+        "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mn>1</mn>\n  <mo>,</mo>\n  <mfrac>\n    <mn>9</mn>\n    <mn>10</mn>\n  </mfrac>\n  <mo>,</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>9</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mn>2</mn>\n  </msup>\n  <mo>,</mo>\n  <msup>\n    <mrow>\n      <mo>(</mo>\n      <mfrac>\n        <mn>9</mn>\n        <mn>10</mn>\n      </mfrac>\n      <mo>)</mo>\n    </mrow>\n    <mn>3</mn>\n  </msup>\n  <mo>,</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n  <mo>.</mo>\n</math>",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 296,
+        "question": "y = is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+        "options": [
+          "2",
+          "10",
+          "1/5",
+          "1/10"
+        ],
+        "correctAnswer": 2,
+        "explanation": "y ∝ 1/x\ny = K/x\nK = xy\nK = (1/2) * 4 ( when y = 4 and x = 1/2)\nK = 2\n∴y = 2/x\n10 = 2/x (when y = 10)\n10x = 2\nx = 2/10\nx = 1/5",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 161,
+        "question": "Triangle SPT is the solution of the linear inequalities",
+        "options": [
+          "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+          " -2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+          " 2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+          "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Δ SPT is the solution of the inequalities\n2y - x - 2 ≤ 0\n2y ≤ 2 + x\ny ≤ 2/2 + x/2\ny ≤ 1 + 1/2x\ny + 2x + 2 ≥ 0,\ny ≥ -2 -2x\n∴ the solution of the inequalities\n2y - x - 2 ≤ 0,\ny + 2x + 2 ≥ 0\n= -2 ≤ x ≤ -1",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696566/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_40_wirh19.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 264,
+        "question": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40o. Find ∠PSQ",
+        "options": [
+          "40°",
+          "30°",
+          "20°",
+          "10°"
+        ],
+        "correctAnswer": 0,
+        "explanation": "R = P (base ∠s of isc Δ, ps = RS)\n∴R = 40o\n∠PSQ = R (∠s in alternate segment)\n∴∠PSQ = 40°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710699712/ALOC-Questions/Mathematics/2003/math_2003_q43_vwszv6.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 810,
+        "question": "The locus of the points which is equidistant from the line PQ forms a",
+        "options": [
+          "perpendicular line to PQ",
+          "circle centre P",
+          " circle centre Q",
+          "pair of parallel lines to PQ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 1000,
+        "question": "The simple interest on ₦8550 for 3 years at x% per annum is ₦4890. Calculate the value of x to the nearest whole number.",
+        "options": [
+          "19%",
+          "20%",
+          "25%",
+          "16.3%"
+        ],
+        "correctAnswer": 0,
+        "explanation": "S.I = PR/T100\n⟹ N 4890 = (8550 × 3 × x)/100\nx = (4890 × 100)/(8550×3)\nx=19.06\nx≊19",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 887,
+        "question": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7.",
+        "options": [
+          "23m",
+          "25m",
+          "20m",
+          "22m"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Capacity = Volume = 3080m3<sup>3</sup>\n\nbase diameter = 14m\n\nradius = diameter/2\n\n\n= 7m\n\nVolume of Cylidner = Capacity of cylinder\n\nπr<sup>2</sup>h = 3080\n\n22/7 × 7 × 7 × h = 3080\n\nh = 3080/22×7\n\n\nh = 20m",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 352,
+        "question": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
+        "options": [
+          "36 π cm<sup>2</sup>/sec",
+          "18 π cm<sup>2</sup>/sec",
+          "6 π cm<sup>2</sup>/sec",
+          "3 π cm<sup>2</sup>/sec"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Increase in radius dr/dt = 0.5\nArea of the circular disc = πr<sup>2</sup>\nIncrease in area: dA/dr = 2πr\nRate of increase in area: dA/dt = dA/dr * dr/dt\nwhen r = 6cm\n= 2πr * 0.5\n= 2 * π * 6 * 0.5\n2 * π * 6 * 1/2 = 6 π cm<sup>2</sup>/sec",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 101,
+        "question": "\nIf the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+        "options": [
+          "0",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mean = {0 + (x+2) + (3x+6) + (4x+8)}/4 = 4\n=> 0 + (x+2) + (3x+6) + (4x+8) = 16\n8x + 16 = 16\nx = 0\nNow prepare a table showing the deviation of each of 0, (x+2), (3x+6) and (4x+8), adding the deviations will give 12.\nThus M.D = 12/4 = 3\n",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2000"
+      },
+      {
+        "id": 900,
+        "question": "y is inversely proportional to x and y is 6 when x = 7. Find the constant of the variation",
+        "options": [
+          "47",
+          "42",
+          "54",
+          "46"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Y ∝ 1/2\n\n\nY = 6, X = 7\n\nY = k/x\n where k is constant\n\n6 = k/7\n\n\nk = 42",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 341,
+        "question": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52° and ∠LOH = 85°, calculate the size of ∠EOG.",
+        "options": [
+          "26°",
+          "43°",
+          "52°",
+          "85°"
+        ],
+        "correctAnswer": 1,
+        "explanation": "∠GOK = 85° (vertical opposite angle ∠s)\n∠EOG + ∠GOK + ∠KOF = 180 (∠s on a straight line)\n∠EOg + 85° + 52° = 180°\n∠EOG + 137° = 180°\n∠EOG = 43°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702171/ALOC-Questions/Mathematics/2005/math_2005_q20_u2kn28.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 575,
+        "question": "In a survey of 50 newspaper readers, 40 read Champion and 30 read Guardian, how many read both papers?",
+        "options": [
+          "10",
+          "5",
+          "15",
+          "20"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Let C n G = X\nn C only = 40 - x\nn G only = 30 - x\n40 - X + 30 - X + X  = 50\n70 - X = 50\nX = 70 - 50\nX = 20",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128158/ALOC-Questions/Mathematics/2010/MATH_2010_Q4_SOLUTION_ufwdkl.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 1256,
+        "question": "If A = (−3,5) and B = (4,−1) find the co-ordinate of the mid point",
+        "options": [
+          "2, ½",
+          "½ , 2",
+          "1, ½",
+          " 0, 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The coordinate of the midpoint is ((−3+4)/2 ,(5+(−1))/2)\n= (1/2,2)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 852,
+        "question": "The nth term of the sequence 3, 9, 27, 81.....is",
+        "options": [
+          "3 x 3n-2",
+          "3 x 3n-1",
+          " 3 x 3n+2",
+          "3 x 3n+1"
+        ],
+        "correctAnswer": 1,
+        "explanation": "3,9,27,81,.....\nr = 9/8 = 3\nT<sup>n</sup> = ar<sup>n-1</sup>\n\nT<sup>n</sup> = 3(3<sup>n-1</sup> = 3(3<sup>2</sup>)/3",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 345,
+        "question": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
+        "options": [
+          "25 πcm<sup>2</sup> ",
+          "65 πcm<sup>2</sup> ",
+          "120 πcm<sup>2</sup> ",
+          "156 πcm<sup>2</sup> "
+        ],
+        "correctAnswer": 1,
+        "explanation": "L<sup>2</sup>  = 12<sup>2</sup>  + 5<sup>2</sup> \n= 144 + 25\n= 169\nL = √169\n= 13\nCurved surface Area = πrL\n= 5/1 * 13/1 * π\n= 65πcm<sup>2</sup> ",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 638,
+        "question": "Solve the inequality x<sup>2</sup> + 2x > 15.",
+        "options": [
+          "x < -3 or x > 5",
+          "-5 < x < 3",
+          " x < 3 or x > 5",
+          "x > 3 or x < -5"
+        ],
+        "correctAnswer": 1,
+        "explanation": "x2 + 2x > 15\n\nx2 + 2x - 15 > 0\n\n(x2 + 5x) - (3x - 15) > 0\n\nx(x + 5) - 3(x + 5) >0\n\n(x - 3)(x + 5) > 0\n\ntherefore, x = 3 or -5\n\ni.e. x< 3 or x > -5",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 274,
+        "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+        "options": [
+          "y = 90 - x",
+          "y = 150 - x",
+          "y = 60 - x",
+          " y = 120 -x"
+        ],
+        "correctAnswer": 0,
+        "explanation": "6x + 6y = (n - 2) 180\n6x + 6y= (5 - 2) 180\n6(x + y) = 3 * 180\nx + y = (3 * 180)/6\nx + y = 90o\ny = 90 - x",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 645,
+        "question": "What is the size of each interior angle of a 12-sided regular polygon?",
+        "options": [
+          "120°",
+          "150°",
+          "30°",
+          "180°"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Interior angle = (n - 2)180\n\nbut, n = 12\n\n= (12 -2)180\n\n= 10 x 180\n\n= 1800\n\nlet each interior angle = x\n\nx = (n−2)180/n\n\n\nx = 1800/12\n\n\n= 150°",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 398,
+        "question": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
+        "options": [
+          "3",
+          "4",
+          "1",
+          "2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Gradient PQ,P(1,q) and Q(3,2=((2-q))/((3-1) )=((2-q))/2.\nGradient of RS∶ R(3,4)and S(5,2q)\n=((2q-4))/((5-3) )=((2q-4))/2=2(q-2)/2  = q-2 \n Since PQ and RS are parallel,\ntheir generation are equal ∴((2-q))/2=q-2. 2-q = 2(q-2)\n2-q = 2q-4\n2+4 = 2q+q\n6 = 3q\nq = 2 \n   \n\n \n    \n",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 633,
+        "question": "Factorize completely 9y<sup>2</sup> - 16X<sup>2</sup>",
+        "options": [
+          "(3y - 2x)(3y + 4x)",
+          "(3y + 4x)(3y + 4x)",
+          "(3y + 2x)(3y - 4x)",
+          "(3y - 4x)(3y + 4x)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "9y<sup>2</sup> - 16x<sup>2</sup>\n\n= 32y<sup>2</sup> - 42x<sup>2</sup>\n\n= (3y - 4x)(3y +4x)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 1267,
+        "question": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
+        "options": [
+          "2/15",
+          "3/4",
+          "9/15",
+          "1/15"
+        ],
+        "correctAnswer": 2,
+        "explanation": "In probability, or = +\n\nProb( A or B or Both ) = 1/3 + 1/5 + 1/15 = (5+3+1)/15\n = 9/15\n = 3/5",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 1253,
+        "question": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A ∪ B) ∪ C",
+        "options": [
+          "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+          "{1, 2, 3, 5, 6, 8, 12, 15}",
+          " {2, 4, 5, 9, 12, 15}",
+          " {1, 5, 6, 7, 8, 9, 12, 15}"
+        ],
+        "correctAnswer": 0,
+        "explanation": "{A ∪ B ∪ C}\n\n{A ∪ B} = {1, 3, 5, 7, 9, 12, 15}\n\n∪ C={2,4,6,8}\n\n{A ∪ B} ∪ C = {1, 3, 5, 7, 9, 12, 15} ∪ {2, 4, 6, 8}\n\n= {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}\n\n{A ∪ B} ∪ C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 636,
+        "question": "T varies inversely as the cube of R. When R = 3, T = 2/81\n, find T when R = 2",
+        "options": [
+          "1/18",
+          "1/12",
+          "1/24",
+          "1/6"
+        ],
+        "correctAnswer": 1,
+        "explanation": "T α1/R<sup>3</sup>\n\n\nT = k/R<sup>3</sup>\n\n\nk = T/R<sup>3</sup>\n\n= 2/81 x 3<sup>3</sup>\n\n= 2/81 x 27\n\ndividing 81 by 27\n\nk = 2/2\n\n\ntherefore, T = 2/3\n x 1/R<sup>3</sup>\n\n\nWhen R = 2\n\nT = 2/3 x 1/23 = 2/3 x 1/8\n\n\n= 1/12",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 579,
+        "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
+        "options": [
+          "q = 18",
+          "p <1",
+          "p = 18",
+          " q < 1"
+        ],
+        "correctAnswer": 0,
+        "explanation": "If 18(p + q) = (18 + p)q\n\nthen 18p + 18q = 18q + pq\n\n18p = pq ⟹ q = 18.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 778,
+        "question": "If S = √(t<sup>2</sup>-4t+4), find t in terms of s",
+        "options": [
+          " S<sup>2</sup> - 2",
+          "S + 2",
+          "S - 2",
+          " S<sup>2</sup> + 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "S = √(t<sup>2</sup> −4t + 4)\n\n\nS<sup>2</sup> = t<sup>2</sup> - 4t + 4\n\nt<sup>2</sup> - 4t + 4 - S<sup>2</sup> = 0\n\nUsing t = −b ± √(b<sup>2</sup −4ac)/2a\n\n\nSubstituting, we have;\n\nUsing t = −(−4) ±)√(−4)<sup>2</sup> −4(1)(4−S<sup>2</sup.>/2(1)\n\n\nt = 4 ±√(16−4(4−S<sup>2</sup>)/2\n\n\nt = 4 ±√(16−16+4S<sup>2</sup>/2\n\n\nt = 4 ±√(4S<sup>2</sup>/2\n\n\nt = 2(2±S)/2\n\n\nHence t = 2 + S or t = 2 - S",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msqrt>\n    <msup>\n      <mi>t</mi>\n      <mn>2</mn>\n    </msup>\n    <mo>&#x2212;<!-- − --></mo>\n    <mn>4</mn>\n    <mi>t</mi>\n    <mo>+</mo>\n    <mn>4</mn>\n  </msqrt>\n</math>",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 1127,
+        "question": "In the diagram above, XY = 8cm and OX = 5cm. Find Oz",
+        "options": [
+          "9cm",
+          "3.4cm",
+          "9.1cm",
+          "3cm"
+        ],
+        "correctAnswer": 3,
+        "explanation": "hyp = 5cm, adj =  8cm/2  4cm, opp = xcm\n\nPythagoras theorem: \n\nhyp<sup>2</sup> = opp<sup>2</sup> + adj<sup>2</sup>\n                                                                                                                        5<sup>2</sup>  = x<sup>2</sup>  + 4<sup>2</sup>\n                                                                                                                        x<sup>2</sup> = 25 - 16\n\nx = √9\n\nx = 3cm",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724007601/ALOC-Questions/Mathematics/2022/JAMB_MATH_2022_Q31_q8utod.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 864,
+        "question": "Rationalize(√6−√4)/(√6 + √4)",
+        "options": [
+          "5 + 2√6",
+          "5 - 4√6",
+          "5 + 4√6",
+          "5 - 2√6"
+        ],
+        "correctAnswer": 3,
+        "explanation": "(√6−√4)/(√6+√4)\n = (6−2√6−2√6+4)/6 − 4\n\n\n10−4√6/2 = 5 - 2√6",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>4</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <msqrt>\n        <mn>6</mn>\n      </msqrt>\n      <mo>+</mo>\n      <msqrt>\n        <mn>4</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n</math>",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 456,
+        "question": "If the lines 3y = 4x - 1 and qy = x + 3 are parallel to each other, the value of q is",
+        "options": [
+          " -4/3",
+          "-3/4",
+          "4/3",
+          "3/4"
+        ],
+        "correctAnswer": 3,
+        "explanation": "If the line 3y = 4x – 1 is parallel t[ line qy = x + 3\nImplies gradient of 3y = 4x – 1\nY = 4/3x - 1/3\n∴Gradient = 4/3\nGradient of line qy = x + 3\nY = 1/qx + 3/q\n∴ Gradient = 1/q\n4/3 = 1/q\n4q = 3\nQ = 3/4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 1081,
+        "question": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
+        "options": [
+          "2/3",
+          "1/2",
+          "1/3",
+          "1/4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "sample space = 16\n\nsum of nos. removed are (2), 3, (4), 5\n\n3, (4), 5, (6)\n\n(4), 5, (6), 7\n\n(5), 6, 7, (8)\n\nEven nos. = 8 of them\n\nPr(even sum) = 8/16\n\n\n= 1/2",
+        "image": "",
+        "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mtable columnalign=\"center center\" rowspacing=\"4pt\" columnspacing=\"1em\" rowlines=\"solid solid solid solid\" columnlines=\"solid\">\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n      </mtd>\n      <mtd>\n        <mn>2</mn>\n      </mtd>\n      <mtd>\n        <mn>3</mn>\n      </mtd>\n      <mtd>\n        <mn>4</mn>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>1</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>1</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>2</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>2</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>3</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>3</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n    <mtr>\n      <mtd>\n        <mn>4</mn>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>1</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>2</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>3</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n      <mtd>\n        <mo stretchy=\"false\">(</mo>\n        <mn>4</mn>\n        <mo>,</mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n      </mtd>\n    </mtr>\n  </mtable>\n</math>\n",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 1007,
+        "question": "If 2<sup>(x+y)</sup>\n = 16 and 4<sup>(x-y)</sup>=1/32\n, find the values of x and y.",
+        "options": [
+          "x = 3/4, y = 11/4",
+          "x = 3/4, y = 13/4",
+          " x = 2/3, y = 4/5",
+          "x = 2/3, y = 13/4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "2<sup>(x+y)</sup>\n = 16 ; 4<sup>(x-y)</sup> = 1/32.\n\n⟹2<sup>(x+y)</sup>=2<sup>4</sup>\nx + y = 4...(1)\n2<sup>(2(x−y))</sup> = 2<sup>(−5)</sup>\n2<sup>(2(x−2y))</sup> = <sup>(−5)</sup>\n⟹2x − 2y = −5...(2)\nSolving the equations (1) and (2) simultaneously, we have\n\nx = 3/4 and y = 13/4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 340,
+        "question": "In the diagram above calculate the value of x",
+        "options": [
+          "60°",
+          "100°",
+          "120°",
+          "140°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "p + 40° = 100° (exterior ∠ = sum of two interior opp ∠s)\np = 100° - 40°\nP = 60°\nBut q + p = 180° (∠s on a straight line)\nq + 60°\nq = 180° - 60°\nq = 120°\nx = q (corresponding ∠)\n∴x = 120°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702104/ALOC-Questions/Mathematics/2005/math_2005_q19_gir53c.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 919,
+        "question": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither Mathematics nor Physics. How many offer both Mathematics and Physics?",
+        "options": [
+          "4",
+          "8",
+          "16",
+          "20"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Let the number of people that offer both Mathematics and Physics = y\n\nThen, (32−y)+y+(24−y)+4=40\n60−y=40⟹y=20\n∴\n20 students offer both Mathematics and Physics.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 1136,
+        "question": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
+        "options": [
+          "#3,000.00",
+          "#4,000.00",
+          " #5,000.00",
+          " #4,750.00"
+        ],
+        "correctAnswer": 3,
+        "explanation": "It is given that the cost of the item reduces to #3800.00 after the discount on the item.\n\nLet original price = x\n\nx – (20% of x) = 100\n\n⇒ x – 0.2x = 100\n\n⇒ 0.8x = #3800\n\n⇒ x = 3800/0.8\n⇒ x = 4,750",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 1175,
+        "question": "The locus of a point equidistant from two intersecting lines is",
+        "options": [
+          "where the sum of the distances of two focal points is fixed",
+          " the collection of points that are equally distant from a fixed point and a line",
+          "the perpendicular bisector of the lines",
+          "pair of bisectors of the angles between the two lines"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The locus of a point equidistant from two intersecting lines is pair of bisectors of the angles between the two lines.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 935,
+        "question": "If the simple interest on a sum of money invested at 3% per annum for 2(1/2)\n  years is N123, find the principal.",
+        "options": [
+          "N676.50",
+          "N820",
+          "N1,640",
+          "N4,920"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 387,
+        "question": "If m:n = 13:111, find m<sup>2</sup> - n<sup>2</sup> : (m + n)<sup>2</sup>",
+        "options": [
+          " 1:11",
+          " 1:13",
+          "1:10",
+          "1:12"
+        ],
+        "correctAnswer": 3,
+        "explanation": "m : n = 13 : 11\nm<sup>2</sup> - n<sup>2</sup> = (m - n)<sup>2</sup>\n= 13<sup>2</sup> - 11<sup>2</sup> : (13 + 11)<sup>2</sup>\n= 169 - 121 : 24<sup>2</sup>\n= 48 : 576\n= 1 : 12",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 167,
+        "question": "In the figure PQR a straight line segment, PQ = QT. Triangle PQT is an isosceles triangle, < SRQ is 75° and < QPT IS 25°. Calculate the value of < RST",
+        "options": [
+          " 50°",
+          "25°",
+          "55°",
+          "45°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "< T = x/1\n = 25° (PQ = QT)\n\n< SQR = 2(25°) = 50° (sum of interior angle)\n\n< Q + < R + < S = 180°\n\n50° + 75° + < S = 180° = 125o + < S = 180°\n\n< S = 180° - 125° = 55°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710696819/ALOC-Questions/Mathematics/2001/JAMB_2001_Q_46_nhtrlx.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 968,
+        "question": "Tossing a coin and rolling a die are two separate events. What is the probability of obtaining a tail on the coin and an even number on the die?",
+        "options": [
+          "1/16",
+          "1/6",
+          "1/4",
+          "3/8"
+        ],
+        "correctAnswer": 2,
+        "explanation": "P( tail on a coin) = 1/2\nEven numbers on a care 2, 4 and 6\n\n  P( even number on a die) = 3/6 = 1/2\nP( tail on a coin and even number on a die) = 1/2 x 1/2\n = 1/4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 413,
+        "question": "The sum of the first n positive integers is",
+        "options": [
+          "1/2 n(n-1)",
+          " n(n+1)",
+          "n(n-1)",
+          "1/2 n(n-1)"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Let the positive integers be 1, 2, ,3, 4, .....n\n∴ a = 1, d = 1 and n = n\nSn = n/2(2a + (n-1)d)\n= n/2 (2 + n – 1)\n= 1/2n(n + 1)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 924,
+        "question": "Find the value of x in the diagram",
+        "options": [
+          "10°",
+          "28°",
+          "36°",
+          " 40°"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The diagram shows angles at a point, the total angle at a point is 360\n\n  x - 10 + 4x - 50 + 2x + 3x + 20 = 360\n\n  10x - 40 = 360\n\n  10x = 360 + 40\n\n  10x = 400\n\n  x = 400/10\n  x = 40\n",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006328/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q6_ki6g4i.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 965,
+        "question": "Convert 0.04945 to two significant figures",
+        "options": [
+          "0.040",
+          "0.049",
+          "0.050",
+          "0.49"
+        ],
+        "correctAnswer": 1,
+        "explanation": "0.04945 to 2s.f is 0.049",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 587,
+        "question": "If y = (2x + 1)3 find dy/dx",
+        "options": [
+          " 3(2x+1)<sup>2</sup>",
+          "6(2x+1)",
+          " 3(2x+1)",
+          "6(2x+1)<sup>2</sup>"
+        ],
+        "correctAnswer": 3,
+        "explanation": "y = (2x + 1)3\ndy/dx = 3(2x + 1)3-1 x 2\n= 3(2x + 1)2 x 2\n= 6(2x + 1)2",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 254,
+        "question": "If <sup>n</sup>P<sub>3</sub>−6(nC<sub>4</sub>)=0, find the value of n.",
+        "options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "solution <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <msup>\n    <mi></mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>n</mi>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>P</mi>\n    <mn>3</mn>\n  </msub>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>6</mn>\n  <msup>\n    <mo stretchy=\"false\">(</mo>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mi>n</mi>\n    </mrow>\n  </msup>\n  <msub>\n    <mi>C</mi>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mn>4</mn>\n    </mrow>\n  </msub>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mi>n</mi>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>6</mn>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mi>n</mi>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mi>n</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mo>=</mo>\n  <mn>0</mn>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mi>n</mi>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mrow>\n    <mo>(</mo>\n    <mfrac>\n      <mrow>\n        <mi>n</mi>\n        <mo>!</mo>\n      </mrow>\n      <mrow>\n        <mo stretchy=\"false\">(</mo>\n        <mi>n</mi>\n        <mo>&#x2212;<!-- − --></mo>\n        <mn>4</mn>\n        <mo stretchy=\"false\">)</mo>\n        <mo>!</mo>\n        <mn>4</mn>\n        <mo>!</mo>\n      </mrow>\n    </mfrac>\n    <mo>)</mo>\n  </mrow>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>!</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>4</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mn>4</mn>\n  <mo>!</mo>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mi>n</mi>\n  <mo>!</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mspace linebreak=\"newline\" />\n  <mo stretchy=\"false\">(</mo>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>4</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mn>4</mn>\n  <mo>!</mo>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>6</mn>\n  <mo stretchy=\"false\">(</mo>\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo stretchy=\"false\">)</mo>\n  <mo>!</mo>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mrow>\n      <mn>4</mn>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>4</mn>\n      <mo stretchy=\"false\">)</mo>\n      <mo>!</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mn>6</mn>\n    <mrow>\n      <mn>4</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>3</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>2</mn>\n      <mo>&#x00D7;<!-- × --></mo>\n      <mn>1</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mfrac>\n    <mn>1</mn>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mi>n</mi>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>3</mn>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mo stretchy=\"false\">]</mo>\n  <mfrac>\n    <mn>1</mn>\n    <mn>4</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>3</mn>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>=</mo>\n  <mn>4</mn>\n  <mo>+</mo>\n  <mn>3</mn>\n  <mspace linebreak=\"newline\" />\n  <mi>n</mi>\n  <mo>=</mo>\n  <mn>7</mn>\n</math>",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 540,
+        "question": "A binary operation ⊗ defined on the set of integers is such that m⊗n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0?",
+        "options": [
+          "-5/4",
+          "-5/6",
+          "0",
+          "5"
+        ],
+        "correctAnswer": 0,
+        "explanation": "m⊗n=m+n+mn\nLet the inverse of -5 be n.\n\n∴−5 ⊗ n = 0\n−5 + n + (−5n) = 0\nn − 5n = 5 ⟹ −4n = 5\nn= − 5/4",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 528,
+        "question": "Simplify (5+√7)/(3+√7)",
+        "options": [
+          "17-√7",
+          "4-√7",
+          "15+√7",
+          "7-√7"
+        ],
+        "correctAnswer": 1,
+        "explanation": "(5+√7)/(3+√7) = (5+√7)/(3+√7) × (3-√7)/(3-√7) = ((5+√7)(3-√7))/(3<sup>2</sup>-√7<sup>2</sup> ) = (15-5√7+3√7-7)/(9-7) = (8-2√7)/2.                  Factorize then divide by 2.            =(2(4-√7)/2  = 4-√7",
+        "image": "",
+        "section": "SOLUTION: <math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mo>&#x00D7;<!-- × --></mo>\n  <mfrac>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mrow>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mo stretchy=\"false\">(</mo>\n      <mn>5</mn>\n      <mo>+</mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n      <mo stretchy=\"false\">(</mo>\n      <mn>3</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo stretchy=\"false\">)</mo>\n    </mrow>\n    <mrow>\n      <msup>\n        <mn>3</mn>\n        <mn>2</mn>\n      </msup>\n      <mo>&#x2212;<!-- − --></mo>\n      <msup>\n        <msqrt>\n          <mn>7</mn>\n        </msqrt>\n        <mn>2</mn>\n      </msup>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>15</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>5</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>+</mo>\n      <mn>3</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n    <mrow>\n      <mn>9</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>7</mn>\n    </mrow>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>8</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <mn>2</mn>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n</math>\n\n\n\n<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mo>=</mo>\n  <mfrac>\n    <mrow>\n      <mn>2</mn>\n      <mo stretchy=\"false\">(</mo>\n      <mn>4</mn>\n      <mo>&#x2212;<!-- − --></mo>\n      <msqrt>\n        <mn>7</mn>\n      </msqrt>\n    </mrow>\n    <mn>2</mn>\n  </mfrac>\n  <mspace linebreak=\"newline\" />\n  <mo>=</mo>\n  <mn>4</mn>\n  <mo>&#x2212;<!-- − --></mo>\n  <msqrt>\n    <mn>7</mn>\n  </msqrt>\n</math>",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 1067,
+        "question": "Find the mean deviation of 1, 2, 3 and 4",
+        "options": [
+          "1.0",
+          "1.5",
+          "2.0",
+          "2.5"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Mean deviation = Σ|x - x|\n                                  n\n_\nx = 2.5\n= (|1 - 2.5| + |2 - 2.5| + |3 - 2.5| + |4 - 2.5|)/ 4\n= 4/4 = 1",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2021"
+      },
+      {
+        "id": 797,
+        "question": "In how many ways can a student select 2 subjects from 5 subjects?",
+        "options": [
+          " 5!/3!",
+          "5!/2!2!",
+          "5!/2!3!",
+          "5!/2!"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A student can select 2 subjects from 5 subjects in;\n\n<sup>5</sup>C<sub>3</sub> ways, i.e. = 5!/2!(5−2)!\n\n\n= 5!/2!3!",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2013"
+      },
+      {
+        "id": 993,
+        "question": "if f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8, what is the value of f(-2)?",
+        "options": [
+          " -24",
+          "30",
+          "-18",
+          "-50"
+        ],
+        "correctAnswer": 2,
+        "explanation": "f(x)=3x<sup>3</sup>+4x<sup>2</sup>+x - 8\nf(−2)=3(−2)<sup>3</sup> + 4(−2)<sup>2</sup>+(−2)−8\n= −24+16−2−8\n= -18",
+        "image": "",
+        "section": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\">\n  <mi>f</mi>\n  <mo stretchy=\"false\">(</mo>\n  <mi>x</mi>\n  <mo stretchy=\"false\">)</mo>\n  <mo>=</mo>\n  <mn>3</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>3</mn>\n  </msup>\n  <mo>+</mo>\n  <mn>4</mn>\n  <msup>\n    <mi>x</mi>\n    <mn>2</mn>\n  </msup>\n  <mo>+</mo>\n  <mi>x</mi>\n  <mo>&#x2212;<!-- − --></mo>\n  <mn>8</mn>\n</math>",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 937,
+        "question": "The table shown gives the marks scored by a group of student in a test. Use the table to answer the question given.\n\nMark\t0\t1\t2\t3\t4\t5\nFrequency\t1\t2\t7\t5\t4\t3\n \n\nWhat is the median mark?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Total frequency = 1 + 2 + 7 + 5 + 4 + 3 = 22\n\n Median is the middle number\n\n = Nth/2\n  term = 22th/2\n = 11th term\n\n  Going in ascending order, 11th term is 3, going in descending order 11th term is 3\n\n  Median = 3 + 3/2 = 6/2 = 3",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1724006353/ALOC-Questions/Mathematics/2018/JAMB_MATH_2018_Q19_itulpw.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 590,
+        "question": "The table above show the marks obtained in a given test.\nHow many student took the test?",
+        "options": [
+          "16",
+          "13",
+          "20",
+          "15"
+        ],
+        "correctAnswer": 2,
+        "explanation": "∑f = 2 + 2 + 8 + 4 + 4\n= 20",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1716128485/ALOC-Questions/Mathematics/2010/MATH_2010_Q19_dg19qk.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 367,
+        "question": "From the diagram given, find the bearing of R from S",
+        "options": [
+          "226°",
+          "224°",
+          "136°",
+          "134°"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The bearing of R from S = 180 + 44 = 224°",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1710702538/ALOC-Questions/Mathematics/2005/math_2005_q46_dluvgl.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2005"
+      },
+      {
+        "id": 839,
+        "question": "Simplify (0.026 × 0.36)/0.69\n. Leave your answer in standard form",
+        "options": [
+          "1.36 x 10-4",
+          "1.36 x 10-3",
+          "1.36 x 10-1",
+          "1.36 x 10-2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "(0.026 × 0.36)/0.69\n = (26 × 10<sup>−3</sup> × 36 × 10<sup>−2</sup> )/(69 × 10<sup>−2</sup>\n\n\n= 0.01356 = 1.36 x 10<sup>-2</sup>",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 561,
+        "question": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
+        "options": [
+          "2/3",
+          "4/9",
+          "8/27",
+          " 1/27"
+        ],
+        "correctAnswer": 3,
+        "explanation": "P(pass) = 2/3\nP(not pass) = 1 - 2/3 = 1/3\nP(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3\n= 1/27",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 129,
+        "question": "Divide: ax<sup>3x</sup> - 26x<sup>2x</sup> + 156a<sup>x</sup> - 216 by a<sup>2x</sup> - 24a<sup>x</sup> + 108",
+        "options": [
+          "a<sup>x</sup> - 2",
+          "a<sup>x</sup> + 2",
+          "a<sup>x</sup> - 8",
+          "a<sup>x</sup> - 6"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 1154,
+        "question": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+        "options": [
+          " 60",
+          "15",
+          " 66",
+          " 4"
+        ],
+        "correctAnswer": 2,
+        "explanation": "If the majority are women implies that:\n\n3 Women and 2 Men Or 4 Women and 1 Man\n\n= <sup>4</sup>C<sub>3</sub> × <sup>6</sup>C<sub>2</sub> + <sup>4</sup>C<sub>4</sub> × <sup>6</sup>C<sub>1</sub>\n= 4 × 15 +1 × 6\n= 60 + 6 = 66",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
       }
     ],
     "POST-UTME": [
@@ -15217,6 +19473,86 @@ export const questionsBySubject = {
         "section": "",
         "examType": "POST-UTME",
         "examYear": "2013"
+      },
+      {
+        "id": 9,
+        "question": "Factorize 16(3x+2y)2-25 (a+2b)2",
+        "options": [
+          "(12x +8y+5a+10b)(12x+8y-5a-10b)    ",
+          "(12x+8y-5a-10b) (12x+8y-5a-10b),    ",
+          "20 (3x +2y-a-2b)(3x+2y+a+2b)  ",
+          "20(3x+2y+a+2b) (3x+2y+a+2b)."
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 39,
+        "question": "The average age of x pupils in a class is 14 years 2 months. A pupils of 15years 2 months joins the class and  the average age is increased  by one month. Find x.      ",
+        "options": [
+          "12, ",
+          " 6, ",
+          "11,",
+          "14,"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 51,
+        "question": "An (n-2)2 sided figure has n diagonal, find the number n of diagonal for a 25 sided Figure   ",
+        "options": [
+          "8",
+          "7",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 49,
+        "question": "A sector circle of radius 7.2cm which subtends an angle of 3000 at the centre is used to   form a cone. What is the radius of the base of the cone?. ",
+        "options": [
+          "6cm ",
+          "7cm ",
+          "8cm    ",
+          "9cm      "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 43,
+        "question": "The trigonometric expression cos2A + sin 2A can be written as:  ",
+        "options": [
+          "cosA(cosA + sinA)  ",
+          "B.cos2A + sin2A – 2sinAcosA,  ",
+          "2sinAcosA + cos2A + sin2A,  ",
+          "D.cos2A +sinA  – 2sinAcosA"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2008"
       }
     ],
     " ": [
@@ -20535,6 +24871,678 @@ export const questionsBySubject = {
         "section": "",
         "examType": "UTME",
         "examYear": "2023"
+      },
+      {
+        "id": 352,
+        "question": "The diagram above represents the stress-strain graph of a loaded wire. Which of these statements is correct?",
+        "options": [
+          " At J, the wire becomes plastic",
+          "J is the yield point",
+          "L is the elastic limit",
+          "At K, the wire breaks"
+        ],
+        "correctAnswer": 1,
+        "explanation": "I is the elastic limit\nThe end of the constant part J is the yield point\nL is the break point.",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765612313/ALOC-Questions/Physics/2019/2019_physics_Q_23_r159gl.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 350,
+        "question": "When the downward current flows in a straight vertical conductor, the direction of its magnetic field at a point due north of the wire is?",
+        "options": [
+          "Upward",
+          "North",
+          "South",
+          "West"
+        ],
+        "correctAnswer": 3,
+        "explanation": "When downward current flows in a vertical conductor, the magnetic field at a point due north of the wire points west (following the right-hand grip rule).",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 348,
+        "question": "A straight wire 15cm long, carrying a current of 6.0A is in a uniform field of 0.40T. What is the force on the wire when it is at right angle to the field",
+        "options": [
+          "0.46N",
+          " 0.35N",
+          "0.36N",
+          " 0,24N"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given information:\n\nLength of wire (L) = 15 cm = 0.15 m\nCurrent (I) = 6.0 A\nMagnetic field (B) = 0.40 T\nAngle (θ) = 90° (at right angle)\nForce (F) = ?\n\nFormula for force on current-carrying conductor:\nF = BIL sin θ\nWhen wire is perpendicular to field (θ = 90°):\nsin 90° = 1\nF = BIL\nSubstituting values:\nF = 0.40 × 6.0 × 0.15\nF = 0.40 × 0.9\nF = 0.36 N",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 567,
+        "question": "In a solar panel, solar beam is concentrated by using ",
+        "options": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "Triangular mirror"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 599,
+        "question": "The energy in a moving car is an example of",
+        "options": [
+          " Mechanical energy",
+          "Electrical energy",
+          "Potential energy",
+          "Kinetic energy"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The energy in a moving car is an example of kinetic energy - energy possessed by an object due to its motion. While mechanical energy (which includes kinetic energy) is also technically correct, kinetic energy is the most specific and direct answer for describing the energy of a moving object.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 243,
+        "question": "An element and its isotope only differ in the number of",
+        "options": [
+          "protons",
+          "electrons",
+          "ions",
+          "neutrons"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Isotopy is due to difference in mass number, what causes the difference is the difference in the number of neutrons present",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 359,
+        "question": "The statement 'Heat lost by the hot body equals that gained by the cold one' is assumed when determining specific that heat capacity by the method of mixtures. Which of the following validates the assumption?\nI. Lagging the Calorimeter\nII. Ensuring that only S.I units are used\nIII. Weighing the calorimeter, the lid and the stirrer.",
+        "options": [
+          " I only",
+          " I & II only",
+          "I & III only",
+          "II & III only"
+        ],
+        "correctAnswer": 2,
+        "explanation": "I & III only as units are independent of energy equation.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 468,
+        "question": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+        "options": [
+          "formation of hydrogen bubbles on the electrode",
+          "increase in the resistance of the cell",
+          "local action",
+          "polarization"
+        ],
+        "correctAnswer": 2,
+        "explanation": "If the zinc used in the simple cell is of the impure commercial variety bubbles of hydrogen will be seen coming off the zinc. This is called local action.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 418,
+        "question": "A stone is thrown vertically upward with an initial velocity of 30 m/s from the top of a building. If the stone takes 8 seconds to reach the ground, what is the height of the building? [Take g = 10 m/s²]",
+        "options": [
+          "80 m",
+          "100 m",
+          "120 m",
+          " 160 m"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Given information:\n\nInitial velocity (u) = 30 m/s (upward, positive)\nTime to reach ground (t) = 8 seconds\nAcceleration due to gravity (g) = -10 m/s² (downward, negative)\nHeight of building (h) = ?\n\nUsing equation of motion:\ns = ut + ½at²\nwhere s is the displacement from starting point (negative when below starting point)\nStep 1: Calculate displacement\nSince the stone ends up below the starting point (at ground level):\ns = ut + ½gt²\ns = 30(8) + ½(-10)(8)²\ns = 240 + ½(-10)(64)\ns = 240 - 320\ns = -80 m\nStep 2: Interpret the result\nThe negative sign indicates the stone is 80 m below the starting point (top of building).\nTherefore, the height of the building = 80 m",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": ""
+      },
+      {
+        "id": 346,
+        "question": "A ray of light passes through the centre of curvature of a concave mirror and strikes the mirror. At what angle is the ray reflected?",
+        "options": [
+          "180°",
+          " 90°",
+          " 0°",
+          "60°"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The ray is reflected at 0° because it retraces its path back through the centre of curvature along the same line with no angular deviation.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 153,
+        "question": "The compressed regions and the space-out regions in longitude wave are refers to as",
+        "options": [
+          "Compression and Rarefaction",
+          "Comparison and Explosion",
+          "Reflection only",
+          " Refraction only"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The vibrating particles behave like a spiral spring with a series of compression region and space–out region.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 580,
+        "question": "The thermometer whose thermometric property is change in volume with temperature is ",
+        "options": [
+          "Resistance thermometer",
+          "Thermocouple",
+          " Bimetallic thermometer",
+          "Liquid-in-glass thermometer"
+        ],
+        "correctAnswer": 3,
+        "explanation": "A liquid-in-glass thermometer operates on the principle that liquids (like mercury or alcohol) expand and contract with temperature changes. This change in volume of the liquid causes it to rise or fall in a calibrated glass tube, allowing temperature measurement.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 575,
+        "question": "A thick glass tumbler cracks when boiling water is poured into it because",
+        "options": [
+          "The inside expands more rapidly than the outside",
+          "The inside expands less rapidly than the outside",
+          "The expansion is even",
+          " It does not expand"
+        ],
+        "correctAnswer": 0,
+        "explanation": "When boiling water is poured into the tumbler, the inner surface heats up and expands quickly, while the outer surface remains cooler and expands more slowly. This difference in expansion rates creates stress in the glass, leading to cracks.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 577,
+        "question": "The energy of light of frequency 2.0 x 10¹⁵Hz is (h = 6.63 x 10⁻³⁴Js)",
+        "options": [
+          ". 3.33 x 10⁻¹⁸J",
+          "1.33 x 10⁻¹⁸J",
+          "1.33 x 10⁻¹⁹J",
+          "3.33 x 10⁻¹⁹J"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Given information:\n\nFrequency, f = 2.0 × 10¹⁵ Hz\nPlanck's constant, h = 6.63 × 10⁻³⁴ J·s\nEnergy, E = ?\n\nSolution:\nStep 1: Apply Planck's equation\nThe energy of a photon:\nE = hf\nStep 2: Substitute the known values\nE = 6.63 × 10⁻³⁴ × 2.0 × 10¹⁵\nStep 3: Calculate the energy\nE = (6.63 × 2.0) × (10⁻³⁴ × 10¹⁵)\nE = 13.26 × 10⁻¹⁹\nE = 1.326 × 10⁻¹⁸ J\nE ≈ 1.33 × 10⁻¹⁸ J",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 273,
+        "question": "Which of the following is not a mechanical wave?",
+        "options": [
+          " wave in closed pipe",
+          "radio waves",
+          "water waves",
+          "sound waves"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Radio waves are not mechanical waves because they are electromagnetic waves that do not require a medium for propagation.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 568,
+        "question": "A rectifier is a device that changes ",
+        "options": [
+          " D.C to D.C",
+          "D.C to A.C",
+          "A.C to A.C",
+          "A.C to D.C"
+        ],
+        "correctAnswer": 3,
+        "explanation": "A rectifier is a device that converts alternating current (AC) into direct current (DC). It enables the flow of current in one direction while blocking it in the opposite direction, thus transforming AC voltage into a form of DC voltage suitable for different applications.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 539,
+        "question": "The sensitivity of a thermometer is",
+        "options": [
+          "All of the above",
+          "how quickly a temperature change can be detected",
+          " the difference between the maximum and the minimum temperature",
+          "the smallest temperature change that can be detected or measured"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The sensitivity of a thermometer is defined as the smallest temperature change that can be detected or measured, NOT how quickly that temperature change can be detected.\n\nIn contrast, the difference between the maximum and the minimum temperature is the range of a thermometer",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 234,
+        "question": "Calculate the upthrust on an object of volume 50cm³ which is immersed in liquid of density 10³ kgm⁻³ [g = 10ms⁻²]",
+        "options": [
+          " 0.8N",
+          "2.5N",
+          " 0.5N",
+          "1.0N"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given information:\n\nVolume of object (V) = 50 cm³ = 50 × 10⁻⁶ m³\nDensity of liquid (ρ) = 10³ kg/m³\nAcceleration due to gravity (g) = 10 m/s²\nUpthrust = ?\n\nFormula for upthrust (Archimedes' Principle):\nUpthrust = Weight of liquid displaced\nUpthrust = ρVg\nSubstituting values:\nUpthrust = 10³ × 50 × 10⁻⁶ × 10\nUpthrust = 10³ × 50 × 10⁻⁵\nUpthrust = 50 × 10⁻²\nUpthrust = 0.5 N",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 201,
+        "question": "A projectile is fired from the ground level with a velocity of 300ms-1 at an angle of a 30o to the horizontal.\nCalculate the time taken to reach the maximum height?\n[g = 10ms-2]",
+        "options": [
+          "30s",
+          " 20s",
+          "25s",
+          "15s"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Given information:\n\nInitial velocity (u) = 300 m/s\nAngle of projection (θ) = 30°\nAcceleration due to gravity (g) = 10 m/s²\nTime to reach maximum height (t) = ?\n\nStep 1: Find vertical component of initial velocity\nu_y = u sin θ\nu_y = 300 × sin 30°\nu_y = 300 × 0.5\nu_y = 150 m/s\nStep 2: At maximum height, vertical velocity = 0\nUsing: v = u - gt\n0 = 150 - 10t\nStep 3: Solve for time\n10t = 150\nt = 150/10\nt = 15 seconds",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 552,
+        "question": "The mechanical advantage of the machine shown above ",
+        "options": [
+          "7.5",
+          "15.5",
+          "30",
+          "60"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mechanical advantage of a machine = LOAD/EFFORT\n\nIn this case of a wedge, we can consider the dimensions given:\n\nLoad distance (height of the machine): 15 cm\nEffort distance (movement of the effort): 0.5 cm\n\nM.A = 15/0.5\n = 30.0",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765615437/ALOC-Questions/Physics/2024/Physics_2024_Q3_qevjoo.png",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 236,
+        "question": "Under which of the following conditions is workdone",
+        "options": [
+          "A man supports a heavy food above his head with his hands",
+          "A boy climbs onto a table",
+          "A man pushes unto a table",
+          "A woman holds a pot of water"
+        ],
+        "correctAnswer": 1,
+        "explanation": "For work to be done, distance must be involved because\nworkdone = force × distance",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 299,
+        "question": "Which of the following has the lowest internal resistance when new?",
+        "options": [
+          "Leclanche cell",
+          "Daniell cell",
+          "Torch battery",
+          "Accumulator"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The accumulator (lead-acid battery) has the lowest internal resistance when new, which allows it to deliver large currents efficiently. This is why it's used in applications requiring high current, such as starting car engines.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 533,
+        "question": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
+        "options": [
+          "800 Hz",
+          "600 Hz",
+          "400 Hz",
+          " 200 Hz"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Given information:\n\nLength of wire, L = 50 cm = 0.50 m\nTotal mass, m = 10 g = 0.01 kg\nTension, T = 800 N\nThird overtone frequency = ?\n\nSolution:\nStep 1: Calculate mass per unit length (linear density)\nμ = m/L\nμ = 0.01/0.50\nμ = 0.02 kg/m\nStep 2: Calculate wave velocity in the wire\nv = √(T/μ)\nv = √(800/0.02)\nv = √40000\nv = 200 m/s\nStep 3: Understand harmonics and overtones\nFor a string fixed at both ends:\n\nFundamental frequency (1st harmonic) = f₀\n1st overtone (2nd harmonic) = 2f₀\n2nd overtone (3rd harmonic) = 3f₀\n3rd overtone (4th harmonic) = 4f₀\n\nStep 4: Calculate fundamental frequency\nFundamental frequency:\nf₀ = v/(2L)\nf₀ = 200/(2 × 0.50)\nf₀ = 200/1\nf₀ = 200 Hz\nStep 5: Calculate third overtone frequency\nThird overtone = 4th harmonic = 4f₀\nf = 4 × 200\nf = 800 Hz",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 307,
+        "question": "The time rate of loss of heat by a body is proportional to the",
+        "options": [
+          " temperature of its surroundings",
+          " temperature of the body",
+          " difference in temperature between the body and its surroundings",
+          "ratio of the temperature of the body to that of its surroundings"
+        ],
+        "correctAnswer": 2,
+        "explanation": "According to Newton's Law of Cooling, the rate of heat loss is proportional to the temperature difference between the body and its surroundings.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 262,
+        "question": "Which of the following surfaces will absorb radiant heat energy?",
+        "options": [
+          "white",
+          "red",
+          "black",
+          "blue"
+        ],
+        "correctAnswer": 2,
+        "explanation": "A black solution is a better radiator of heat and allow a better absorber of heat.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 578,
+        "question": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
+        "options": [
+          " 50.21mmHg",
+          "46.71mmHg",
+          "42.35mmHg",
+          "35.12mmHg"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Given information:\n\nInitial pressure, P₁ = 40 mmHg\nInitial temperature, T₁ = 298 K\nFinal temperature, T₂ = 348 K\nVolume is constant\nFinal pressure, P₂ = ?\n\nSolution:\nStep 1: Apply Gay-Lussac's Law\nAt constant volume:\nP₁/T₁ = P₂/T₂\nStep 2: Rearrange to find final pressure\nP₂ = P₁ × (T₂/T₁)\nStep 3: Substitute the known values\nP₂ = 40 × (348/298)\nStep 4: Calculate the final pressure\nP₂ = 40 × 1.1678\nP₂ = 46.71 mmHg",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
+      },
+      {
+        "id": 173,
+        "question": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
+        "options": [
+          " I & II only",
+          "II only",
+          "I, II, & III only",
+          "III only"
+        ],
+        "correctAnswer": 2,
+        "explanation": "All three processes (using soft iron, laminating the core, and designing an efficient core) help reduce energy losses in transformers.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 508,
+        "question": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
+        "options": [
+          "0.8663 day⁻¹",
+          "0.04331 day⁻¹",
+          " 0.17325 day⁻¹",
+          "0.05775 day⁻¹"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Given information:\n\nHalf-life, t½ = 12 days\nDecay constant, λ = ?\n\nSolution:\nUsing the relationship between half-life and decay constant:\nλ = ln(2)/t½\nor\nλ = 0.693/t½\nStep 1: Substitute the known values\nλ = 0.693/12\nStep 2: Calculate the decay constant\nλ = 0.05775 day⁻¹",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 282,
+        "question": "Natural radioactivity consists of the emission of",
+        "options": [
+          "α- particles and β-rays",
+          "α- particles and X-rays",
+          " α- particles, β - rays and y-rays",
+          "γ- rays and X-rays"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Radioactivity is the spontaneous emission of radiation from atomic nuclei. This radiation can consist of alpha, beta, and gamma radiation. ",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 315,
+        "question": "In homes, electrical appliances and lamps are connected in parallel because",
+        "options": [
+          "Each appliance receives the full mains voltage and can be switched on/off independently",
+          " less voltage will be used",
+          "parallel connection does not heat up the wires",
+          "series connection uses high voltage"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The PRIMARY reasons electrical appliances are connected in parallel in homes are:\n1. Full voltage to each device\n\nEvery appliance gets the complete mains voltage (e.g., 240V or 120V)\nEnsures proper operation at rated specifications\n\n2. Independent operation\n\nEach device has its own separate path to the power source\nSwitching one device on/off doesn't affect others\nCan use different combinations of appliances simultaneously\n\n3. Reliability\n\nIf one device fails (breaks or burns out), others continue working\nOne broken bulb doesn't turn off all lights\n\n4. Flexibility\n\nCan add or remove appliances without affecting others\nDifferent power requirements easily accommodated",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2018"
+      },
+      {
+        "id": 223,
+        "question": "In the diagram above, the neutral point is at",
+        "options": [
+          "R",
+          "X",
+          "Sound waves",
+          "P"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Understanding neutral points in magnetism:\nA neutral point is a location where the magnetic field strength is zero because two opposing magnetic fields cancel each other out.\nFrom the diagram:\nThe diagram shows what appears to be magnetic field lines from two bar magnets placed with like poles facing each other (N-N or S-S arrangement based on the concentric circles pattern).\nCharacteristics of neutral point:\n\nLocated between two like poles\nMagnetic fields are equal in magnitude but opposite in direction\nNet magnetic field = zero\n\nAnalysis:\n\nPoint X appears to be positioned between the two magnetic sources where the fields would oppose and cancel each other\nPoints R, S, and P are at other locations where fields wouldn't completely cancel\n\n\nThe neutral point is at X, where the opposing magnetic fields from the two sources cancel each other out, resulting in zero net magnetic field.",
+        "image": "https://res.cloudinary.com/aloc-ng/image/upload/v1765610399/ALOC-Questions/Physics/2016/2016_PHYSICS_Q_44_dw0oc9.jpg",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 477,
+        "question": "According to kinetic molecular model in gases,",
+        "options": [
+          "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
+          "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
+          "the molecules are very far apart and occupy all the spaces made available to them",
+          "the particles occur in clusters with molecules slightly further apart"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The model, called the kinetic theory of gases, assumes that the molecules are very small relative to the distance between molecules.\n\nThe molecules are in constant, random motion and frequently collide with each other and with the walls of any container.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 492,
+        "question": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
+        "options": [
+          "hyperbola",
+          "parabola",
+          "curve",
+          "straight line"
+        ],
+        "correctAnswer": 3,
+        "explanation": "When pressure is plotted against 1/V, the relationship becomes P = k(1/V), which is a direct proportionality. This produces a straight line graph passing through the origin with slope equal to the constant k.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2022"
+      },
+      {
+        "id": 152,
+        "question": "Radio waves belong to the class of wave whose velocity is about",
+        "options": [
+          "34m/s",
+          "3 × 10⁶ m/s",
+          " 3 × 10⁸ m/s",
+          "3 × 10⁻⁸ m/s"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Radio waves are part of the electromagnetic spectrum, which includes:\n\nRadio waves\nMicrowaves\nInfrared\nVisible light\nUltraviolet\nX-rays\nGamma rays\n\nKey property of electromagnetic waves:\nAll electromagnetic waves travel at the speed of light in vacuum (or air).\nSpeed of light (c):\nc = 3 × 10⁸ m/s (or approximately 300,000 km/s)",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 182,
+        "question": "What happens to a water pool on a day when the humidity of the air is very low?",
+        "options": [
+          "Temperature decreases",
+          " Slow evaporation",
+          "Temperature increases",
+          "Rapid evaporation"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Low humidity means dry air, which promotes rapid evaporation of water.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2016"
+      },
+      {
+        "id": 167,
+        "question": "If an object whose mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
+        "options": [
+          "4 rads⁻¹",
+          "1rads–1⁻¹",
+          "3⁻¹rads⁻¹",
+          "4rads–1⁻¹"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Given information:\n\nMass (m) = 3 kg\nRadius (r) = 0.7 m\nLinear speed (v) = 2 m/s\nAngular velocity (ω) = ?\n\nFormula for circular motion:\nv = ωr\nwhere:\n\nv = tangential/linear speed\nω = angular velocity\nr = radius\n\nRearranging to find ω:\nω = v/r\nSubstituting values:\nω = 2/0.7\nω = 2.857 rad/s\nRounding to nearest whole number:\nω ≈ 3 rad/s\nAnswer: C. 3 rads⁻¹",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 369,
+        "question": "The lead-acid accumulator consists of",
+        "options": [
+          " lead as the positive electrode",
+          "lead acid as the negative electrode",
+          "hydrochloric acid as the electrolyte",
+          "tetraoxosulphate (vi) acid as the electrolyte"
+        ],
+        "correctAnswer": 3,
+        "explanation": "The lead-acid accumulator uses tetraoxosulphate (VI) acid (sulfuric acid, H₂SO₄) as the electrolyte.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2019"
+      },
+      {
+        "id": 276,
+        "question": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+        "options": [
+          "⁵⁸₂₈X",
+          "³⁰₂₈X",
+          "²⁸₃₀X",
+          "⁵⁸₃₀X"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Given information:\n\nNumber of electrons = 28\nNumber of neutrons = 30\n\nUnderstanding atomic notation:\nThe standard notation is: ᴬ_ZX\nwhere:\n\nA = mass number (top) = protons + neutrons\nZ = atomic number (bottom) = number of protons\nX = element symbol\n\nStep 1: Find number of protons\nFor a neutral atom: Number of protons = Number of electrons = 28\nTherefore: Z = 28\nStep 2: Calculate mass number\nMass number (A) = Protons + Neutrons\nA = 28 + 30 = 58\nStep 3: Write the notation\nᴬ_ZX = ⁵⁸₂₈X",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2017"
+      },
+      {
+        "id": 505,
+        "question": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 × 10³ kgm⁻³ and the air above is at a pressure of 101.3 kPa. [Take g = 9.8 ms⁻²]",
+        "options": [
+          " 422.7 kPa",
+          " 220.14 kPa",
+          "464.53 kPa",
+          "321.74 kPa"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Given information:\n\nDepth, h = 32.8 m\nDensity of water, ρ = 1 × 10³ kg/m³ = 1000 kg/m³\nAtmospheric pressure, P₀ = 101.3 kPa = 101,300 Pa\nAcceleration due to gravity, g = 9.8 m/s²\nAbsolute pressure, P = ?\n\nSolution:\nUsing the absolute pressure formula:\nP = P₀ + ρgh\nWhere:\n\nP₀ = atmospheric pressure\nρgh = pressure due to water column\n\nStep 1: Calculate pressure due to water column\nP_water = ρgh\nP_water = 1000 × 9.8 × 32.8\nP_water = 321,440 Pa\nP_water = 321.44 kPa\nStep 2: Calculate absolute pressure\nP = P₀ + P_water\nP = 101.3 + 321.44\nP = 422.74 kPa\nP ≈ 422.7 kPa",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 523,
+        "question": "\nLight of wavelength 589 nm in vacuum passes through a piece of fused quartz of index of refraction n = 1.458. What is the frequency of the light in fused quartz? [Speed of light c = 3.00×10⁸ms⁻¹]",
+        "options": [
+          "5.09×10¹⁵Hz",
+          "5.09×10¹⁴ Hz",
+          "1.77×10¹⁵ Hz",
+          "1.77×10¹⁴ Hz"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Given information:\n\nWavelength in vacuum, λ₀ = 589 nm = 589 × 10⁻⁹ m\nRefractive index of fused quartz, n = 1.458\nSpeed of light in vacuum, c = 3.00 × 10⁸ m/s\nFrequency in fused quartz, f = ?\n\nSolution:\nStep 1: Key principle\nWhen light passes from one medium to another:\n\nFrequency remains constant\nWavelength and speed change\n\nStep 2: Calculate frequency using vacuum values\nUsing the wave equation:\nc = fλ₀\nf = c/λ₀\nStep 3: Substitute values\nf = (3.00 × 10⁸)/(589 × 10⁻⁹)\nf = (3.00 × 10⁸)/(5.89 × 10⁻⁷)\nf = 5.093 × 10¹⁴ Hz\nf ≈ 5.09 × 10¹⁴ Hz",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2023"
+      },
+      {
+        "id": 172,
+        "question": "Which of the following will increase the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply",
+        "options": [
+          " I only",
+          " III & IV only",
+          "II & III only",
+          "II only"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The simplest way to change the boiling point of a liquid is to change the surrounding pressure. (a) Using a closed system to artificially increase that pressure will raise the boiling point of a liquid. (b)  Boiling point is dependent upon the strength of the bonds between its molecules. For this reason, adding a solute to the liquid will create stronger bonds between molecules, raising the solution’s boiling point without increasing pressure.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2015"
+      },
+      {
+        "id": 593,
+        "question": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is ",
+        "options": [
+          "E/B",
+          "EB",
+          "B/E",
+          "E-B"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The resultant emergent velocity of ions that pass through undeflected in combined perpendicular electric field E and magnetic field B is v = E/B. This is the principle used in velocity selectors.",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2024"
       }
     ],
     "POST-UTME": [
@@ -21865,6 +26873,294 @@ export const questionsBySubject = {
         "section": "",
         "examType": "POST-UTME",
         "examYear": "2006"
+      },
+      {
+        "id": 8,
+        "question": " A quantity of ice –10oc is heated until temperature of heating vessel is 90oc. Which of the following constant is NOT required to determine the quantity of heat supplied to the vessel? ",
+        "options": [
+          "Specific latent heat of vaporization ",
+          "specific heat capacity of ice ",
+          "specific latent heat of fusion ",
+          "specific heat capacity of water"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 57,
+        "question": "A house hold refrigerator is rated 200 watts. If electricity cost 5k per Kwh, what is the cost of operating it for 20 days ",
+        "options": [
+          "N4.80  ",
+          "N48.00 ",
+          "N480.00 ",
+          "N4800.00 "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 22,
+        "question": "A vehicle of mass m is driven by an engine of power P from rest. Find the minimum time it will take to acquire a speed v. ",
+        "options": [
+          "mv2/p ",
+          "mv2/2p ",
+          "mv/p ",
+          "mv/2p"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 25,
+        "question": "A uniform rod PQ of mass 2kg and length of 1m is pivoted at the end P, if a load of 14N is placed at the centre, find the force that should be applied vertically upwards at Q to maintain the rod in equilibrium ",
+        "options": [
+          "7N ",
+          "28N ",
+          "68N ",
+          "17N"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 78,
+        "question": "Highly polished silvery  surfaces are: ",
+        "options": [
+          "poor absorbers but good emitter of radiation ",
+          "good absorbers and good emitters of radiation ",
+          "poor emitters but good reflectors of radiation ",
+          "poor emitters and poor reflectors of radiation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 44,
+        "question": "If two masses 40g and 60g respectively, are attached firmly to end of a light metre rule, what is the centre of gravity of the system? ",
+        "options": [
+          "at the mid point of the metre rule ",
+          "40cm from the lighter mass ",
+          "40cm from the heavier masses ",
+          "60cm from the heavier masses "
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 14,
+        "question": "Three 4Ω resistors were connected in series by Tola, while Ade connected the ",
+        "options": [
+          "1:02",
+          "1:09",
+          "1:10",
+          "1:15"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 110,
+        "question": "A p-n junction can act as  ",
+        "options": [
+          "an amplifier  ",
+          "a rectifier  ",
+          "an inductor ",
+          "a capacitor "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 71,
+        "question": "  A long-jumper leaves the ground at an angle of 20o above the horizontal and at speed of 11m/s. How far does it jumps in the horizontal direction? ",
+        "options": [
+          "0.384m ",
+          "7.94m ",
+          "8.45m ",
+          "5m"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 38,
+        "question": "The silver wall of a vacuum flask prevents heat loss due to ",
+        "options": [
+          "conduction ",
+          "Convection ",
+          "Radiation ",
+          "Diffraction"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 32,
+        "question": "The temperature at which the water vapour in the air saturates the air and begins to condense is",
+        "options": [
+          "melting point ",
+          "triple point ",
+          "dew point ",
+          "melting point"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 35,
+        "question": "An electric cell has an internal resistance of 2Ω. A current of 0.5A was measured when a resistor of resistance 5Ω was connected across it. Determine the electromotive force of the cell",
+        "options": [
+          "3.5V ",
+          "2.5V ",
+          "4.5V ",
+          "2.35V"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 105,
+        "question": "A hydraulic press works on the principle of transmission of   ",
+        "options": [
+          "force  ",
+          "energy  ",
+          "volume  ",
+          "pressure"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 34,
+        "question": "An air column 10cm in length is trapped into the sealed end of a capillary tube by a 15cm column of mercury with the tube held vertically. On inverting the tube, the air column becomes 15cm long, what is the atmospheric pressure during the experiment? ",
+        "options": [
+          "76cm ",
+          "75cm ",
+          "60cm ",
+          "70cm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 116,
+        "question": "rectangular block measures 40cm x 25cm and made of material of density 7800kg/m3. Calculate the pressure the block exerts on the floor when it stands on the smallest of its surfaces ",
+        "options": [
+          "3.12 x 103N/m2 ",
+          "3.90 x 103N/m2 ",
+          "1.9 x 104N/m2 ",
+          "3.12 x 104N/m2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 69,
+        "question": "If 21g of alcohol of density 0.7gcm-3 is mixed with 10g of water, what would be the density of the resulting mixture? ",
+        "options": [
+          "780gcm-3 ",
+          "0.78gcm-3 ",
+          "30gcm-3 ",
+          "10gcm-3"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 91,
+        "question": "In the force of gravity on an object of mass m, the gravitational field strength, g, is given by the following equation. ",
+        "options": [
+          "g = √MF ",
+          "g = MF ",
+          "g = M√F ",
+          "g = F/M."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 68,
+        "question": "The most likely measurement of length of an object using a venier caliper is: ",
+        "options": [
+          "3.0cm ",
+          "3.3cm ",
+          "3.33cm ",
+          "3.333cm"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "POST-UTME",
+        "examYear": "2010"
       }
     ]
   },
@@ -26493,6 +31789,150 @@ export const questionsBySubject = {
         "section": "",
         "examType": "UTME",
         "examYear": "2001"
+      },
+      {
+        "id": 51,
+        "question": "Which of the following solutions containing only hydroxyl ions will liberate hydrogen gas when reacted with magnesium metal",
+        "options": [
+          "1.0 x 10-2 mol dm-3",
+          "1.0 x 10-4 mol dm -3",
+          "1.0 x 10-5 mol dm-3",
+          "1.0 x 10-12 mol dm-3"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2002"
+      },
+      {
+        "id": 239,
+        "question": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
+        "options": [
+          "CH3CH2CH3",
+          "CH3CH = CH2",
+          "CH3CH2C = CH",
+          "CH3C = CH"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 260,
+        "question": "Which of he following pairs of substances will react further with oxygen to form a higher oxide",
+        "options": [
+          "SO2 and NO",
+          "CO2 and H2O",
+          "CO and CO2",
+          "NO and H2O"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 301,
+        "question": "One of the major uses of Alkanes is",
+        "options": [
+          "In the hydrogenation of oils",
+          "In the textile industries",
+          "In the production of plastics",
+          "As domestic and industrial fuels"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 117,
+        "question": "The type of reaction that is peculiar to benzene is",
+        "options": [
+          "Addition",
+          "Hydrolysis",
+          "Polymerization",
+          "Substitution"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 21,
+        "question": "What current in amperes will deposit 2.7g of aluminium in 2 hours [Al = 27, f = 96500 C mol-1]",
+        "options": [
+          "32",
+          "8",
+          "4",
+          "16"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2001"
+      },
+      {
+        "id": 112,
+        "question": "Ethene reacts with hydrogen bromide to give",
+        "options": [
+          "CH2Br2",
+          "CH3CH2Br",
+          "C2H2Br2",
+          "CHBr3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 229,
+        "question": "[Molar volume of a gas at s.t.p + 22.4dm3} Nuclear fission involves the splitting of a heavy element into two nuclei of",
+        "options": [
+          "Equal masses with a release of energy",
+          "Nearly equal masses with a release of energy and radiation",
+          "Equal masses with a release of energy and radiation",
+          "Unequal masses without any release of energy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 149,
+        "question": " N2O4(g)    ⇌  2NO2(g)",
+        "options": [
+          "A constant volume",
+          "An increase in pressure",
+          "A decrease in pressure",
+          " A decrease in volume"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
       }
     ]
   },
@@ -31793,6 +37233,454 @@ export const questionsBySubject = {
         "section": "",
         "examType": "UTME",
         "examYear": "2003"
+      },
+      {
+        "id": 198,
+        "question": "The order of passage of food in the digestive system is",
+        "options": [
+          "ileum caecum large intestine rectum",
+          "ileum colon caecum rectum",
+          "large intestine ileum caecum rectum",
+          "colon caeum ileum rectum  "
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 126,
+        "question": "The causative reagent of typhoid fever is  ",
+        "options": [
+          "Entamoeba",
+          "Salmonella",
+          "Shigella  ",
+          "Escherichia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 27,
+        "question": "Mycorrhiza is an association  between fungi and",
+        "options": [
+          "protozoans",
+          "roots of higher plants",
+          "bacteria",
+          "filamentous algae"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 208,
+        "question": "Which of the following associations is an example of mutalism?",
+        "options": [
+          "hydra viridis and zoochlorellae",
+          "human and lice   ",
+          "Shark and Remora fish  ",
+          "Bread and Rhizopus stolonifer  "
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 28,
+        "question": "A limiting factor in a plant population near a chemical factory is likely to be",
+        "options": [
+          "light  ",
+          "humidity  ",
+          "wind  ",
+          "PH."
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 203,
+        "question": "In the mammalian kidney,  the Bowman’s  capsule is located in the",
+        "options": [
+          "ureter",
+          "Pelvis  ",
+          "cortex",
+          "medulla  "
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 209,
+        "question": "In a typical freshwater habitat, the edge of the stream or pond constitutes the",
+        "options": [
+          "tidal zone  ",
+          "interidal zone  ",
+          "littoral zone  ",
+          "euphotic zone"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 130,
+        "question": "Climax communities in a biotic succession are usually characterized by",
+        "options": [
+          "a constant change in the appearance of the commodities  ",
+          "a stable composition of plant and animal species  ",
+          "rapid changes in the plant and animal species  ",
+          "different species that are constantly changing"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 36,
+        "question": "The type of reproduction that leads to variation in animal and plant population is",
+        "options": [
+          "  budding",
+          " sexual",
+          "vegatative",
+          "asexual"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 60,
+        "question": "Epigeal germination of a seed is characterized by",
+        "options": [
+          "more rapid  elongation of the hypocotyl than the epicotyl",
+          "more rapid elongation of the epicotyl than the hypocotyl  ",
+          "equal growth rate of both the hypocotyl and epicotyl  ",
+          "lack of growth of the hypocotyl"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
+      },
+      {
+        "id": 249,
+        "question": "The major cause of global warming is the",
+        "options": [
+          "Burning of fossil fuel",
+          "construction of dams",
+          "use of electricity  ",
+          "exploration of space"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 361,
+        "question": "In the kidney of mammals, the site of ultra filtration is the",
+        "options": [
+          "urinferous tuble",
+          "Bowman capsule  ",
+          "loop of Henle  ",
+          "renal tuble"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2012"
+      },
+      {
+        "id": 7,
+        "question": "The cell component that is present in a prokaryotic cell is the",
+        "options": [
+          "chloroplast   ",
+          "ribosome",
+          "mitochondrion   ",
+          "nuclear envelope"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 339,
+        "question": "If the cross of a red  flowered plant with a white flowered plant produces a pink flowered plant, it is an example of",
+        "options": [
+          "incomplete dominance  ",
+          " mutation  ",
+          " linkage",
+          "co dominance"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 289,
+        "question": "Low annual rainfall, sparse vegetation, high dermal temperatures and cold nights are characteristics features of the",
+        "options": [
+          "tropical  rainforest  ",
+          "desert   ",
+          "mundane forest",
+          "guinea savanna"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 213,
+        "question": "In an experiment to determine the percentage of air in a soil  sample, the  Following readings were recorded:\nVolume of water inn a measuring cylinder = 500cm3  \nVolume of soil added to water= 350cm2\nVolume of water andn soil after stirring= 800cm2\nThe percentage of air in the soil sample is \n",
+        "options": [
+          "6.25%",
+          "10. 36%    ",
+          "14.28%",
+          "43.28%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 160,
+        "question": "In mammals , the  organ directly on top of the kidney is the",
+        "options": [
+          "prostate gland  ",
+          " pancrease   ",
+          "thyroid gland  ",
+          " adrenal gland"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 303,
+        "question": "In which of the following species is the biomass of an individual the smallest?",
+        "options": [
+          "Agama sp  ",
+          "Bufo sp",
+          "spirogyra sp   ",
+          "Tilapia sp"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 134,
+        "question": "Night blindness result from a deficiency of  ",
+        "options": [
+          "Vitamin E  ",
+          "Vitamin K  ",
+          "Vitamin C  ",
+          "Vitamin A"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2006"
+      },
+      {
+        "id": 16,
+        "question": "The structure can be found in the",
+        "options": [
+          "sympathetic and parasympathetic nervous systems  ",
+          "peripheral and central nervous systems",
+          "peripheral nervous system only  ",
+          "central nervous system only"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 165,
+        "question": "The waste product of plants used in the conversion of hide to leather is",
+        "options": [
+          "resin  ",
+          "tannin  ",
+          "gum  ",
+          "Alkaloid"
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 216,
+        "question": "Which of the following is a major case of variation among  organisms?  ",
+        "options": [
+          "inbreeding  ",
+          "backcrossing   ",
+          "sexual reproduction",
+          "Gene dominance"
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2008"
+      },
+      {
+        "id": 186,
+        "question": "The theory  which supports the view that the large muscles developed by an athlete will be passed on to the offspring was proposed by",
+        "options": [
+          "Darwin  ",
+          "Lamarck   ",
+          "Pasteur   ",
+          "Mendel."
+        ],
+        "correctAnswer": 1,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2007"
+      },
+      {
+        "id": 344,
+        "question": "The fallacy in Lamarck’s evolutionary theory was the  assumption that",
+        "options": [
+          "acquired traits  are heritable",
+          "acquired traits are seldom formed",
+          "traits  are acquired  through the use of body parts  ",
+          "traits are acquired through disuse  of body parts."
+        ],
+        "correctAnswer": 2,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2011"
+      },
+      {
+        "id": 301,
+        "question": "The flippers of a whale  and the fins of a fish are examples of",
+        "options": [
+          "divergent evolution  ",
+          "co evolution",
+          "continuous variation",
+          "convergent evolution"
+        ],
+        "correctAnswer": 0,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2010"
+      },
+      {
+        "id": 242,
+        "question": "The association between bacteria residing I the caecum and the ruminant is  ",
+        "options": [
+          "parasitism  ",
+          "predation  ",
+          "saprophytism  ",
+          "mutalism"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2009"
+      },
+      {
+        "id": 6,
+        "question": "An insect whose economic importance is both harmful and beneficial is the",
+        "options": [
+          "tests fly  ",
+          "black",
+          "mosquito   ",
+          "butterfly"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2003"
+      },
+      {
+        "id": 50,
+        "question": "A peculiar characteristic of mammals is that they  ",
+        "options": [
+          "have teeth  ",
+          "are warm blooded  ",
+          "haelungs",
+          "have sebaceous glands"
+        ],
+        "correctAnswer": 3,
+        "explanation": "",
+        "image": "",
+        "section": "",
+        "examType": "UTME",
+        "examYear": "2004"
       }
     ]
   }
